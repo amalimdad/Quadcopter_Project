@@ -1,0 +1,1000 @@
+Episode =    1, reward = -32.839 (best reward= -32.839), step=  17 agent_position = ( -1.806,  2.576,  0.000) 
+Episode =    2, reward = -32.844 (best reward= -32.839), step=  34 agent_position = ( -1.802,  2.587,  0.000) 
+Episode =    3, reward = -32.838 (best reward= -32.838), step=  51 agent_position = ( -1.797,  2.583,  0.000) 
+Episode =    4, reward = -32.838 (best reward= -32.838), step=  68 agent_position = ( -1.785,  2.592,  0.000) 
+Episode =    5, reward = -32.834 (best reward= -32.834), step=  85 agent_position = ( -1.775,  2.594,  0.000) 
+Episode =    6, reward = -32.838 (best reward= -32.834), step= 102 agent_position = ( -1.810,  2.575,  0.000) 
+Episode =    7, reward = -32.839 (best reward= -32.834), step= 119 agent_position = ( -1.790,  2.589,  0.000) 
+Episode =    8, reward = -32.841 (best reward= -32.834), step= 136 agent_position = ( -1.787,  2.525,  0.000) 
+Episode =    9, reward = -16.999 (best reward= -16.999), step= 145 agent_position = ( -0.435,  0.276,  0.000) 
+Episode =   10, reward = -15.143 (best reward= -15.143), step= 153 agent_position = ( -0.404,  0.174,  0.000) 
+Episode =   11, reward = -15.159 (best reward= -15.143), step= 161 agent_position = ( -0.639,  0.064,  0.000) 
+Episode =   12, reward = -17.059 (best reward= -15.143), step= 170 agent_position = ( -0.684,  0.110,  0.000) 
+Episode =   13, reward = -13.282 (best reward= -13.282), step= 177 agent_position = ( -0.563,  0.522,  0.000) 
+Episode =   14, reward = -15.195 (best reward= -13.282), step= 185 agent_position = ( -0.151,  0.434,  0.000) 
+Episode =   15, reward = -17.115 (best reward= -13.282), step= 194 agent_position = ( -0.088,  0.687,  0.000) 
+Episode =   16, reward = -13.214 (best reward= -13.214), step= 201 agent_position = ( -0.123,  0.231,  0.000) 
+Episode =   17, reward = -17.174 (best reward= -13.214), step= 210 agent_position = ( -0.497, -0.387,  0.000) 
+Episode =   18, reward = -16.958 (best reward= -13.214), step= 219 agent_position = (  0.443,  0.057,  0.000) 
+Episode =   19, reward = -18.792 (best reward= -13.214), step= 229 agent_position = ( -0.121, -0.037,  0.000) 
+Episode =   20, reward = -18.745 (best reward= -13.214), step= 239 agent_position = (  0.016, -0.013,  0.000) 
+Episode =   21, reward = -18.765 (best reward= -13.214), step= 249 agent_position = (  0.003,  0.054,  0.000) 
+Episode =   22, reward = -18.785 (best reward= -13.214), step= 259 agent_position = (  0.001,  0.101,  0.000) 
+Episode =   23, reward = -18.793 (best reward= -13.214), step= 269 agent_position = (  0.001,  0.119,  0.000) 
+Episode =   24, reward = -18.803 (best reward= -13.214), step= 279 agent_position = (  0.000,  0.140,  0.000) 
+Episode =   25, reward = -18.809 (best reward= -13.214), step= 289 agent_position = (  0.000,  0.151,  0.000) 
+Episode =   26, reward = -16.874 (best reward= -13.214), step= 298 agent_position = (  0.000,  0.163,  0.000) 
+Episode =   27, reward = -16.876 (best reward= -13.214), step= 307 agent_position = (  0.000,  0.166,  0.000) 
+Episode =   28, reward = -16.879 (best reward= -13.214), step= 316 agent_position = (  0.000,  0.172,  0.000) 
+Episode =   29, reward = -16.881 (best reward= -13.214), step= 325 agent_position = (  0.000,  0.176,  0.000) 
+Episode =   30, reward = -16.882 (best reward= -13.214), step= 334 agent_position = (  0.000,  0.178,  0.000) 
+Episode =   31, reward = -16.883 (best reward= -13.214), step= 343 agent_position = (  0.000,  0.181,  0.000) 
+Episode =   32, reward = -16.884 (best reward= -13.214), step= 352 agent_position = (  0.000,  0.182,  0.000) 
+Episode =   33, reward = -16.888 (best reward= -13.214), step= 361 agent_position = (  0.000,  0.189,  0.000) 
+Episode =   34, reward = -16.886 (best reward= -13.214), step= 370 agent_position = (  0.000,  0.186,  0.000) 
+Episode =   35, reward = -16.887 (best reward= -13.214), step= 379 agent_position = (  0.000,  0.189,  0.000) 
+Episode =   36, reward = -16.888 (best reward= -13.214), step= 388 agent_position = (  0.000,  0.189,  0.000) 
+Episode =   37, reward = -16.889 (best reward= -13.214), step= 397 agent_position = (  0.000,  0.191,  0.000) 
+Episode =   38, reward = -16.887 (best reward= -13.214), step= 406 agent_position = (  0.000,  0.188,  0.000) 
+Episode =   39, reward = -16.888 (best reward= -13.214), step= 415 agent_position = (  0.000,  0.190,  0.000) 
+Episode =   40, reward = -16.889 (best reward= -13.214), step= 424 agent_position = (  0.000,  0.192,  0.000) 
+Episode =   41, reward = -16.889 (best reward= -13.214), step= 433 agent_position = (  0.000,  0.192,  0.000) 
+Episode =   42, reward = -16.888 (best reward= -13.214), step= 442 agent_position = (  0.000,  0.191,  0.000) 
+Episode =   43, reward = -16.889 (best reward= -13.214), step= 451 agent_position = (  0.000,  0.191,  0.000) 
+Episode =   44, reward = -16.889 (best reward= -13.214), step= 460 agent_position = (  0.000,  0.192,  0.000) 
+Episode =   45, reward = -16.889 (best reward= -13.214), step= 469 agent_position = (  0.000,  0.192,  0.000) 
+Episode =   46, reward = -16.889 (best reward= -13.214), step= 478 agent_position = (  0.000,  0.192,  0.000) 
+Episode =   47, reward = -16.889 (best reward= -13.214), step= 487 agent_position = (  0.000,  0.192,  0.000) 
+Episode =   48, reward = -16.888 (best reward= -13.214), step= 496 agent_position = (  0.000,  0.191,  0.000) 
+Episode =   49, reward = -16.887 (best reward= -13.214), step= 505 agent_position = (  0.000,  0.188,  0.000) 
+Episode =   50, reward = -16.883 (best reward= -13.214), step= 514 agent_position = (  0.000,  0.181,  0.000) 
+Episode =   51, reward = -18.807 (best reward= -13.214), step= 524 agent_position = (  0.000,  0.149,  0.000) 
+Episode =   52, reward = -18.770 (best reward= -13.214), step= 534 agent_position = ( -0.000, -0.098,  0.000) 
+Episode =   53, reward = -15.039 (best reward= -13.214), step= 542 agent_position = ( -0.000,  0.295,  0.000) 
+Episode =   54, reward = -15.071 (best reward= -13.214), step= 550 agent_position = ( -0.001,  0.271,  0.000) 
+Episode =   55, reward = -27.142 (best reward= -13.214), step= 564 agent_position = ( -0.034,  5.302,  0.000) 
+Episode =   56, reward = -29.105 (best reward= -13.214), step= 579 agent_position = ( -0.500,  5.240,  0.000) 
+Episode =   57, reward = -21.275 (best reward= -13.214), step= 590 agent_position = ( -2.256, -0.153,  0.000) 
+Episode =   58, reward = -44.718 (best reward= -13.214), step= 613 agent_position = (  0.346, -4.249,  0.000) 
+Episode =   59, reward = -143.574 (best reward= -13.214), step= 684 agent_position = (-10.713, -5.878,  0.000) 
+Episode =   60, reward = -70.573 (best reward= -13.214), step= 768 agent_position = (-113.541, -9.299, 50.623) 
+Episode =   61, reward = -19.092 (best reward= -13.214), step= 778 agent_position = ( -0.330,  1.846,  0.000) 
+Episode =   62, reward = -51.266 (best reward= -13.214), step= 862 agent_position = (-49.227, 48.983,116.812) 
+Episode =   63, reward = -32.650 (best reward= -13.214), step= 946 agent_position = (-59.984, -6.461,110.374) 
+Episode =   64, reward = -30.065 (best reward= -13.214), step=1030 agent_position = (-55.100, -7.337,113.580) 
+Episode =   65, reward = -46.341 (best reward= -13.214), step=1114 agent_position = (-87.814,  2.836, 85.053) 
+Episode =   66, reward = -54.043 (best reward= -13.214), step=1198 agent_position = (-94.025, -1.081, 71.284) 
+Episode =   67, reward = -18.774 (best reward= -13.214), step=1208 agent_position = ( -1.031,  0.004,  0.000) 
+Episode =   68, reward = -13.399 (best reward= -13.214), step=1215 agent_position = ( -1.954, -0.001,  0.000) 
+Episode =   69, reward = -26.682 (best reward= -13.214), step=1229 agent_position = ( -1.910, -0.007,  0.000) 
+Episode =   70, reward = -42.524 (best reward= -13.214), step=1252 agent_position = (  1.710,  0.004,  0.000) 
+Episode =   71, reward = -24.356 (best reward= -13.214), step=1265 agent_position = ( -0.352, -0.003,  0.000) 
+Episode =   72, reward = -24.544 (best reward= -13.214), step=1278 agent_position = ( -0.868,  0.000,  0.000) 
+Episode =   73, reward = -24.543 (best reward= -13.214), step=1291 agent_position = ( -0.859, -0.000,  0.000) 
+Episode =   74, reward = -24.534 (best reward= -13.214), step=1304 agent_position = ( -0.847, -0.000,  0.000) 
+Episode =   75, reward = -24.538 (best reward= -13.214), step=1317 agent_position = ( -0.854,  0.001,  0.000) 
+Episode =   76, reward = -24.529 (best reward= -13.214), step=1330 agent_position = ( -0.840,  0.001,  0.000) 
+Episode =   77, reward = -24.525 (best reward= -13.214), step=1343 agent_position = ( -0.833, -0.001,  0.000) 
+Episode =   78, reward = -24.540 (best reward= -13.214), step=1356 agent_position = ( -0.856,  0.001,  0.000) 
+Episode =   79, reward = -24.539 (best reward= -13.214), step=1369 agent_position = ( -0.854,  0.000,  0.000) 
+Episode =   80, reward = -24.523 (best reward= -13.214), step=1382 agent_position = ( -0.832, -0.001,  0.000) 
+Episode =   81, reward = -24.526 (best reward= -13.214), step=1395 agent_position = ( -0.837, -0.000,  0.000) 
+Episode =   82, reward = -24.534 (best reward= -13.214), step=1408 agent_position = ( -0.835,  0.002,  0.000) 
+Episode =   83, reward = -24.532 (best reward= -13.214), step=1421 agent_position = ( -0.844, -0.000,  0.000) 
+Episode =   84, reward = -31.936 (best reward= -13.214), step=1438 agent_position = ( -0.557, -0.001,  0.000) 
+Episode =   85, reward = -24.526 (best reward= -13.214), step=1451 agent_position = ( -0.836, -0.000,  0.000) 
+Episode =   86, reward = -13.364 (best reward= -13.214), step=1458 agent_position = ( -1.619,  0.003,  0.000) 
+Episode =   87, reward = -24.524 (best reward= -13.214), step=1471 agent_position = ( -0.834, -0.001,  0.000) 
+Episode =   88, reward = -18.839 (best reward= -13.214), step=1481 agent_position = ( -1.240,  0.002,  0.000) 
+Episode =   89, reward = -38.155 (best reward= -13.214), step=1501 agent_position = (  3.002, -0.051,  0.000) 
+Episode =   90, reward = -24.517 (best reward= -13.214), step=1514 agent_position = ( -0.824, -0.001,  0.000) 
+Episode =   91, reward = -24.496 (best reward= -13.214), step=1527 agent_position = ( -0.795, -0.001,  0.000) 
+Episode =   92, reward = -31.879 (best reward= -13.214), step=1544 agent_position = (  0.603,  0.000,  0.000) 
+Episode =   93, reward = -24.454 (best reward= -13.214), step=1557 agent_position = ( -0.739,  0.001,  0.000) 
+Episode =   94, reward = -24.419 (best reward= -13.214), step=1570 agent_position = ( -0.275, -0.001,  0.000) 
+Episode =   95, reward = -26.607 (best reward= -13.214), step=1584 agent_position = ( -1.531,  0.007,  0.000) 
+Episode =   96, reward = -51.362 (best reward= -13.214), step=1612 agent_position = ( -0.153, -0.013,  0.000) 
+Episode =   97, reward = -22.435 (best reward= -13.214), step=1624 agent_position = (  0.396, -0.001,  0.000) 
+Episode =   98, reward = -11.261 (best reward= -11.261), step=1630 agent_position = (  0.247,  0.000,  0.000) 
+Episode =   99, reward = -42.663 (best reward= -11.261), step=1652 agent_position = (  1.524,  0.002,  0.000) 
+Episode =  100, reward =  76.122 (best reward=  76.122), step=1736 agent_position = ( -0.000, 19.709, 70.046) 
+Episode =  101, reward = 102.961 (best reward= 102.961), step=1820 agent_position = ( -0.001, -0.546, 73.791) 
+Episode =  102, reward =  81.151 (best reward= 102.961), step=1904 agent_position = (  0.000,-17.905, 70.175) 
+Episode =  103, reward =  90.040 (best reward= 102.961), step=1988 agent_position = (  0.026,-11.192, 72.545) 
+Episode =  104, reward = -81.876 (best reward= 102.961), step=2040 agent_position = (  2.810,  3.751,  0.000) 
+Episode =  105, reward = -111.702 (best reward= 102.961), step=2110 agent_position = (107.654, -6.080,  0.000) 
+Episode =  106, reward =  20.039 (best reward= 102.961), step=2194 agent_position = ( 59.021, -2.160, 40.722) 
+Episode =  107, reward = -34.811 (best reward= 102.961), step=2212 agent_position = ( -3.698, -0.001,  0.000) 
+Episode =  108, reward = -43.186 (best reward= 102.961), step=2236 agent_position = (  0.551, -0.002,  0.000) 
+Episode =  109, reward = -29.840 (best reward= 102.961), step=2252 agent_position = (  1.139,  0.000,  0.000) 
+Episode =  110, reward = -42.439 (best reward= 102.961), step=2274 agent_position = ( -3.989, -0.007,  0.000) 
+Episode =  111, reward = -37.697 (best reward= 102.961), step=2294 agent_position = ( -1.228, -0.004,  0.000) 
+Episode =  112, reward = -20.667 (best reward= 102.961), step=2305 agent_position = ( -0.462,  0.000,  0.000) 
+Episode =  113, reward = -22.487 (best reward= 102.961), step=2317 agent_position = (  0.773, -0.002,  0.000) 
+Episode =  114, reward = -32.817 (best reward= 102.961), step=2334 agent_position = ( -3.433, -0.001,  0.000) 
+Episode =  115, reward = -22.585 (best reward= 102.961), step=2346 agent_position = ( -1.660, -0.005,  0.000) 
+Episode =  116, reward = -32.815 (best reward= 102.961), step=2363 agent_position = ( -3.425,  0.001,  0.000) 
+Episode =  117, reward = -40.279 (best reward= 102.961), step=2385 agent_position = (  1.285,  0.026,  0.000) 
+Episode =  118, reward = -52.273 (best reward= 102.961), step=2411 agent_position = ( -9.383, -0.007,  0.000) 
+Episode =  119, reward = -13.136 (best reward= 102.961), step=2418 agent_position = (  0.037,  0.001,  0.000) 
+Episode =  120, reward = -28.527 (best reward= 102.961), step=2433 agent_position = (  1.334,  0.000,  0.000) 
+Episode =  121, reward = -25.068 (best reward= 102.961), step=2446 agent_position = ( -2.684,  0.000,  0.000) 
+Episode =  122, reward = -25.074 (best reward= 102.961), step=2459 agent_position = ( -2.686, -0.000,  0.000) 
+Episode =  123, reward = -25.080 (best reward= 102.961), step=2472 agent_position = ( -2.687, -0.000,  0.000) 
+Episode =  124, reward = -25.075 (best reward= 102.961), step=2485 agent_position = ( -2.693,  0.000,  0.000) 
+Episode =  125, reward = -25.075 (best reward= 102.961), step=2498 agent_position = ( -2.689,  0.001,  0.000) 
+Episode =  126, reward = -25.069 (best reward= 102.961), step=2511 agent_position = ( -2.687,  0.001,  0.000) 
+Episode =  127, reward = -25.097 (best reward= 102.961), step=2524 agent_position = ( -2.701,  0.001,  0.000) 
+Episode =  128, reward = -27.168 (best reward= 102.961), step=2538 agent_position = ( -2.965, -0.023,  0.000) 
+Episode =  129, reward = -31.481 (best reward= 102.961), step=2554 agent_position = ( -2.560,  2.270,  0.000) 
+Episode =  130, reward = -37.657 (best reward= 102.961), step=2573 agent_position = ( -2.808, -1.913,  0.000) 
+Episode =  131, reward = -37.660 (best reward= 102.961), step=2592 agent_position = ( -2.812, -1.962,  0.000) 
+Episode =  132, reward = -37.668 (best reward= 102.961), step=2611 agent_position = ( -2.800, -1.980,  0.000) 
+Episode =  133, reward = -35.558 (best reward= 102.961), step=2629 agent_position = ( -2.648, -1.794,  0.000) 
+Episode =  134, reward = -39.792 (best reward= 102.961), step=2649 agent_position = ( -2.999, -2.228,  0.000) 
+Episode =  135, reward = -37.663 (best reward= 102.961), step=2668 agent_position = ( -2.806, -1.975,  0.000) 
+Episode =  136, reward = -39.819 (best reward= 102.961), step=2688 agent_position = ( -3.022, -2.282,  0.000) 
+Episode =  137, reward = -37.680 (best reward= 102.961), step=2707 agent_position = ( -2.794, -2.055,  0.000) 
+Episode =  138, reward = -37.661 (best reward= 102.961), step=2726 agent_position = ( -2.809, -1.975,  0.000) 
+Episode =  139, reward = -37.674 (best reward= 102.961), step=2745 agent_position = ( -2.808, -2.016,  0.000) 
+Episode =  140, reward = -39.806 (best reward= 102.961), step=2765 agent_position = ( -2.998, -2.242,  0.000) 
+Episode =  141, reward = -37.687 (best reward= 102.961), step=2784 agent_position = ( -2.814, -2.026,  0.000) 
+Episode =  142, reward = -35.563 (best reward= 102.961), step=2802 agent_position = ( -2.653, -1.799,  0.000) 
+Episode =  143, reward = -37.672 (best reward= 102.961), step=2821 agent_position = ( -2.803, -1.993,  0.000) 
+Episode =  144, reward = -37.672 (best reward= 102.961), step=2840 agent_position = ( -2.800, -2.007,  0.000) 
+Episode =  145, reward = -37.666 (best reward= 102.961), step=2859 agent_position = ( -2.798, -1.999,  0.000) 
+Episode =  146, reward = -39.818 (best reward= 102.961), step=2879 agent_position = ( -3.022, -2.283,  0.000) 
+Episode =  147, reward = -37.661 (best reward= 102.961), step=2898 agent_position = ( -2.813, -1.975,  0.000) 
+Episode =  148, reward = -39.807 (best reward= 102.961), step=2918 agent_position = ( -3.014, -2.256,  0.000) 
+Episode =  149, reward = -33.435 (best reward= 102.961), step=2935 agent_position = ( -2.495, -1.520,  0.000) 
+Episode =  150, reward = -35.544 (best reward= 102.961), step=2953 agent_position = ( -2.664, -1.757,  0.000) 
+Episode =  151, reward = -37.657 (best reward= 102.961), step=2972 agent_position = ( -2.807, -1.973,  0.000) 
+Episode =  152, reward = -35.543 (best reward= 102.961), step=2990 agent_position = ( -2.663, -1.733,  0.000) 
+Episode =  153, reward = -35.537 (best reward= 102.961), step=3008 agent_position = ( -2.652, -1.735,  0.000) 
+Episode =  154, reward = -35.553 (best reward= 102.961), step=3026 agent_position = ( -2.668, -1.767,  0.000) 
+Episode =  155, reward = -39.807 (best reward= 102.961), step=3046 agent_position = ( -3.012, -2.246,  0.000) 
+Episode =  156, reward = -33.432 (best reward= 102.961), step=3063 agent_position = ( -2.479, -1.516,  0.000) 
+Episode =  157, reward = -35.544 (best reward= 102.961), step=3081 agent_position = ( -2.662, -1.743,  0.000) 
+Episode =  158, reward = -37.669 (best reward= 102.961), step=3100 agent_position = ( -2.797, -1.970,  0.000) 
+Episode =  159, reward = -37.679 (best reward= 102.961), step=3119 agent_position = ( -2.797, -2.050,  0.000) 
+Episode =  160, reward = -35.544 (best reward= 102.961), step=3137 agent_position = ( -2.660, -1.760,  0.000) 
+Episode =  161, reward = -37.676 (best reward= 102.961), step=3156 agent_position = ( -2.788, -2.024,  0.000) 
+Episode =  162, reward = -37.690 (best reward= 102.961), step=3175 agent_position = ( -2.817, -2.067,  0.000) 
+Episode =  163, reward = -41.959 (best reward= 102.961), step=3196 agent_position = ( -3.224, -2.520,  0.000) 
+Episode =  164, reward = -35.540 (best reward= 102.961), step=3214 agent_position = ( -2.656, -1.725,  0.000) 
+Episode =  165, reward = -35.545 (best reward= 102.961), step=3232 agent_position = ( -2.654, -1.730,  0.000) 
+Episode =  166, reward = -37.663 (best reward= 102.961), step=3251 agent_position = ( -2.809, -1.958,  0.000) 
+Episode =  167, reward = -35.550 (best reward= 102.961), step=3269 agent_position = ( -2.654, -1.768,  0.000) 
+Episode =  168, reward = -35.562 (best reward= 102.961), step=3287 agent_position = ( -2.658, -1.819,  0.000) 
+Episode =  169, reward = -33.430 (best reward= 102.961), step=3304 agent_position = ( -2.501, -1.498,  0.000) 
+Episode =  170, reward = -37.662 (best reward= 102.961), step=3323 agent_position = ( -2.806, -1.937,  0.000) 
+Episode =  171, reward = -37.668 (best reward= 102.961), step=3342 agent_position = ( -2.795, -1.984,  0.000) 
+Episode =  172, reward = -35.558 (best reward= 102.961), step=3360 agent_position = ( -2.646, -1.802,  0.000) 
+Episode =  173, reward = -39.798 (best reward= 102.961), step=3380 agent_position = ( -3.017, -2.240,  0.000) 
+Episode =  174, reward = -37.674 (best reward= 102.961), step=3399 agent_position = ( -2.797, -2.040,  0.000) 
+Episode =  175, reward = -37.659 (best reward= 102.961), step=3418 agent_position = ( -2.806, -1.967,  0.000) 
+Episode =  176, reward = -37.660 (best reward= 102.961), step=3437 agent_position = ( -2.796, -1.974,  0.000) 
+Episode =  177, reward = -39.802 (best reward= 102.961), step=3457 agent_position = ( -2.996, -2.255,  0.000) 
+Episode =  178, reward = -35.542 (best reward= 102.961), step=3475 agent_position = ( -2.658, -1.718,  0.000) 
+Episode =  179, reward = -37.683 (best reward= 102.961), step=3494 agent_position = ( -2.801, -2.031,  0.000) 
+Episode =  180, reward = -37.670 (best reward= 102.961), step=3513 agent_position = ( -2.795, -1.962,  0.000) 
+Episode =  181, reward = -35.541 (best reward= 102.961), step=3531 agent_position = ( -2.662, -1.739,  0.000) 
+Episode =  182, reward = -35.549 (best reward= 102.961), step=3549 agent_position = ( -2.667, -1.756,  0.000) 
+Episode =  183, reward = -37.668 (best reward= 102.961), step=3568 agent_position = ( -2.797, -1.973,  0.000) 
+Episode =  184, reward = -37.677 (best reward= 102.961), step=3587 agent_position = ( -2.824, -2.028,  0.000) 
+Episode =  185, reward = -35.538 (best reward= 102.961), step=3605 agent_position = ( -2.650, -1.738,  0.000) 
+Episode =  186, reward = -35.532 (best reward= 102.961), step=3623 agent_position = ( -2.651, -1.707,  0.000) 
+Episode =  187, reward = -35.534 (best reward= 102.961), step=3641 agent_position = ( -2.658, -1.706,  0.000) 
+Episode =  188, reward = -39.818 (best reward= 102.961), step=3661 agent_position = ( -3.020, -2.303,  0.000) 
+Episode =  189, reward = -39.804 (best reward= 102.961), step=3681 agent_position = ( -3.000, -2.245,  0.000) 
+Episode =  190, reward = -37.670 (best reward= 102.961), step=3700 agent_position = ( -2.796, -2.000,  0.000) 
+Episode =  191, reward = -35.543 (best reward= 102.961), step=3718 agent_position = ( -2.658, -1.736,  0.000) 
+Episode =  192, reward = -39.798 (best reward= 102.961), step=3738 agent_position = ( -3.011, -2.219,  0.000) 
+Episode =  193, reward = -37.676 (best reward= 102.961), step=3757 agent_position = ( -2.813, -2.012,  0.000) 
+Episode =  194, reward = -37.674 (best reward= 102.961), step=3776 agent_position = ( -2.791, -2.027,  0.000) 
+Episode =  195, reward = -39.812 (best reward= 102.961), step=3796 agent_position = ( -3.026, -2.253,  0.000) 
+Episode =  196, reward = -35.539 (best reward= 102.961), step=3814 agent_position = ( -2.646, -1.719,  0.000) 
+Episode =  197, reward = -33.434 (best reward= 102.961), step=3831 agent_position = ( -2.505, -1.532,  0.000) 
+Episode =  198, reward = -37.660 (best reward= 102.961), step=3850 agent_position = ( -2.804, -1.970,  0.000) 
+Episode =  199, reward = -37.683 (best reward= 102.961), step=3869 agent_position = ( -2.807, -2.030,  0.000) 
+Episode =  200, reward = -35.540 (best reward= 102.961), step=3887 agent_position = ( -2.666, -1.740,  0.000) 
+Episode =  201, reward = -35.550 (best reward= 102.961), step=3905 agent_position = ( -2.663, -1.745,  0.000) 
+Episode =  202, reward = -37.680 (best reward= 102.961), step=3924 agent_position = ( -2.797, -2.053,  0.000) 
+Episode =  203, reward = -35.533 (best reward= 102.961), step=3942 agent_position = ( -2.658, -1.695,  0.000) 
+Episode =  204, reward = -35.538 (best reward= 102.961), step=3960 agent_position = ( -2.659, -1.703,  0.000) 
+Episode =  205, reward = -37.664 (best reward= 102.961), step=3979 agent_position = ( -2.802, -1.990,  0.000) 
+Episode =  206, reward = -37.663 (best reward= 102.961), step=3998 agent_position = ( -2.810, -1.944,  0.000) 
+Episode =  207, reward = -35.537 (best reward= 102.961), step=4016 agent_position = ( -2.670, -1.736,  0.000) 
+Episode =  208, reward = -33.437 (best reward= 102.961), step=4033 agent_position = ( -2.495, -1.533,  0.000) 
+Episode =  209, reward = -37.680 (best reward= 102.961), step=4052 agent_position = ( -2.813, -2.018,  0.000) 
+Episode =  210, reward = -35.556 (best reward= 102.961), step=4070 agent_position = ( -2.642, -1.803,  0.000) 
+Episode =  211, reward = -37.674 (best reward= 102.961), step=4089 agent_position = ( -2.802, -2.029,  0.000) 
+Episode =  212, reward = -37.676 (best reward= 102.961), step=4108 agent_position = ( -2.791, -2.032,  0.000) 
+Episode =  213, reward = -33.427 (best reward= 102.961), step=4125 agent_position = ( -2.490, -1.495,  0.000) 
+Episode =  214, reward = -37.667 (best reward= 102.961), step=4144 agent_position = ( -2.813, -2.010,  0.000) 
+Episode =  215, reward = -37.686 (best reward= 102.961), step=4163 agent_position = ( -2.811, -2.051,  0.000) 
+Episode =  216, reward = -33.426 (best reward= 102.961), step=4180 agent_position = ( -2.485, -1.489,  0.000) 
+Episode =  217, reward = -37.681 (best reward= 102.961), step=4199 agent_position = ( -2.810, -2.043,  0.000) 
+Episode =  218, reward = -35.550 (best reward= 102.961), step=4217 agent_position = ( -2.660, -1.775,  0.000) 
+Episode =  219, reward = -35.555 (best reward= 102.961), step=4235 agent_position = ( -2.658, -1.773,  0.000) 
+Episode =  220, reward = -37.668 (best reward= 102.961), step=4254 agent_position = ( -2.792, -2.005,  0.000) 
+Episode =  221, reward = -39.805 (best reward= 102.961), step=4274 agent_position = ( -3.022, -2.252,  0.000) 
+Episode =  222, reward = -37.680 (best reward= 102.961), step=4293 agent_position = ( -2.803, -2.020,  0.000) 
+Episode =  223, reward = -35.549 (best reward= 102.961), step=4311 agent_position = ( -2.670, -1.774,  0.000) 
+Episode =  224, reward = -35.537 (best reward= 102.961), step=4329 agent_position = ( -2.662, -1.728,  0.000) 
+Episode =  225, reward = -37.666 (best reward= 102.961), step=4348 agent_position = ( -2.819, -2.004,  0.000) 
+Episode =  226, reward = -35.544 (best reward= 102.961), step=4366 agent_position = ( -2.671, -1.734,  0.000) 
+Episode =  227, reward = -37.677 (best reward= 102.961), step=4385 agent_position = ( -2.803, -2.045,  0.000) 
+Episode =  228, reward = -35.555 (best reward= 102.961), step=4403 agent_position = ( -2.646, -1.776,  0.000) 
+Episode =  229, reward = -41.966 (best reward= 102.961), step=4424 agent_position = ( -3.231, -2.565,  0.000) 
+Episode =  230, reward = -35.561 (best reward= 102.961), step=4442 agent_position = ( -2.660, -1.788,  0.000) 
+Episode =  231, reward = -37.676 (best reward= 102.961), step=4461 agent_position = ( -2.803, -2.019,  0.000) 
+Episode =  232, reward = -37.671 (best reward= 102.961), step=4480 agent_position = ( -2.807, -2.001,  0.000) 
+Episode =  233, reward = -35.545 (best reward= 102.961), step=4498 agent_position = ( -2.674, -1.747,  0.000) 
+Episode =  234, reward = -37.678 (best reward= 102.961), step=4517 agent_position = ( -2.801, -2.037,  0.000) 
+Episode =  235, reward = -37.668 (best reward= 102.961), step=4536 agent_position = ( -2.810, -2.019,  0.000) 
+Episode =  236, reward = -39.810 (best reward= 102.961), step=4556 agent_position = ( -2.993, -2.285,  0.000) 
+Episode =  237, reward = -37.666 (best reward= 102.961), step=4575 agent_position = ( -2.796, -1.990,  0.000) 
+Episode =  238, reward = -39.816 (best reward= 102.961), step=4595 agent_position = ( -3.009, -2.284,  0.000) 
+Episode =  239, reward = -37.672 (best reward= 102.961), step=4614 agent_position = ( -2.806, -2.009,  0.000) 
+Episode =  240, reward = -37.670 (best reward= 102.961), step=4633 agent_position = ( -2.812, -1.973,  0.000) 
+Episode =  241, reward = -37.675 (best reward= 102.961), step=4652 agent_position = ( -2.805, -2.006,  0.000) 
+Episode =  242, reward = -37.663 (best reward= 102.961), step=4671 agent_position = ( -2.808, -1.969,  0.000) 
+Episode =  243, reward = -35.546 (best reward= 102.961), step=4689 agent_position = ( -2.661, -1.761,  0.000) 
+Episode =  244, reward = -37.667 (best reward= 102.961), step=4708 agent_position = ( -2.797, -1.975,  0.000) 
+Episode =  245, reward = -35.560 (best reward= 102.961), step=4726 agent_position = ( -2.644, -1.815,  0.000) 
+Episode =  246, reward = -35.550 (best reward= 102.961), step=4744 agent_position = ( -2.653, -1.772,  0.000) 
+Episode =  247, reward = -37.674 (best reward= 102.961), step=4763 agent_position = ( -2.796, -2.020,  0.000) 
+Episode =  248, reward = -33.426 (best reward= 102.961), step=4780 agent_position = ( -2.490, -1.499,  0.000) 
+Episode =  249, reward = -39.809 (best reward= 102.961), step=4800 agent_position = ( -3.011, -2.263,  0.000) 
+Episode =  250, reward = -37.670 (best reward= 102.961), step=4819 agent_position = ( -2.818, -1.959,  0.000) 
+Episode =  251, reward = -37.681 (best reward= 102.961), step=4838 agent_position = ( -2.801, -2.036,  0.000) 
+Episode =  252, reward = -37.671 (best reward= 102.961), step=4857 agent_position = ( -2.806, -1.995,  0.000) 
+Episode =  253, reward = -35.534 (best reward= 102.961), step=4875 agent_position = ( -2.647, -1.732,  0.000) 
+Episode =  254, reward = -33.430 (best reward= 102.961), step=4892 agent_position = ( -2.502, -1.508,  0.000) 
+Episode =  255, reward = -39.800 (best reward= 102.961), step=4912 agent_position = ( -3.018, -2.225,  0.000) 
+Episode =  256, reward = -35.540 (best reward= 102.961), step=4930 agent_position = ( -2.643, -1.749,  0.000) 
+Episode =  257, reward = -35.557 (best reward= 102.961), step=4948 agent_position = ( -2.645, -1.787,  0.000) 
+Episode =  258, reward = -37.682 (best reward= 102.961), step=4967 agent_position = ( -2.808, -2.026,  0.000) 
+Episode =  259, reward = -37.683 (best reward= 102.961), step=4986 agent_position = ( -2.810, -2.043,  0.000) 
+Episode =  260, reward = -35.542 (best reward= 102.961), step=5004 agent_position = ( -2.672, -1.733,  0.000) 
+Episode =  261, reward = -37.668 (best reward= 102.961), step=5023 agent_position = ( -2.810, -1.981,  0.000) 
+Episode =  262, reward = -39.795 (best reward= 102.961), step=5043 agent_position = ( -3.015, -2.205,  0.000) 
+Episode =  263, reward = -35.538 (best reward= 102.961), step=5061 agent_position = ( -2.661, -1.728,  0.000) 
+Episode =  264, reward = -39.816 (best reward= 102.961), step=5081 agent_position = ( -3.018, -2.259,  0.000) 
+Episode =  265, reward = -37.676 (best reward= 102.961), step=5100 agent_position = ( -2.806, -2.010,  0.000) 
+Episode =  266, reward = -35.542 (best reward= 102.961), step=5118 agent_position = ( -2.659, -1.726,  0.000) 
+Episode =  267, reward = -37.670 (best reward= 102.961), step=5137 agent_position = ( -2.808, -2.002,  0.000) 
+Episode =  268, reward = -35.543 (best reward= 102.961), step=5155 agent_position = ( -2.659, -1.705,  0.000) 
+Episode =  269, reward = -35.536 (best reward= 102.961), step=5173 agent_position = ( -2.660, -1.722,  0.000) 
+Episode =  270, reward = -35.547 (best reward= 102.961), step=5191 agent_position = ( -2.660, -1.747,  0.000) 
+Episode =  271, reward = -35.538 (best reward= 102.961), step=5209 agent_position = ( -2.670, -1.726,  0.000) 
+Episode =  272, reward = -35.549 (best reward= 102.961), step=5227 agent_position = ( -2.667, -1.741,  0.000) 
+Episode =  273, reward = -37.675 (best reward= 102.961), step=5246 agent_position = ( -2.802, -2.019,  0.000) 
+Episode =  274, reward = -35.538 (best reward= 102.961), step=5264 agent_position = ( -2.654, -1.727,  0.000) 
+Episode =  275, reward = -37.675 (best reward= 102.961), step=5283 agent_position = ( -2.798, -2.015,  0.000) 
+Episode =  276, reward = -37.680 (best reward= 102.961), step=5302 agent_position = ( -2.796, -2.029,  0.000) 
+Episode =  277, reward = -35.561 (best reward= 102.961), step=5320 agent_position = ( -2.666, -1.776,  0.000) 
+Episode =  278, reward = -37.674 (best reward= 102.961), step=5339 agent_position = ( -2.812, -2.020,  0.000) 
+Episode =  279, reward = -37.657 (best reward= 102.961), step=5358 agent_position = ( -2.802, -1.963,  0.000) 
+Episode =  280, reward = -35.549 (best reward= 102.961), step=5376 agent_position = ( -2.657, -1.764,  0.000) 
+Episode =  281, reward = -37.665 (best reward= 102.961), step=5395 agent_position = ( -2.792, -1.998,  0.000) 
+Episode =  282, reward = -37.676 (best reward= 102.961), step=5414 agent_position = ( -2.792, -2.015,  0.000) 
+Episode =  283, reward = -37.666 (best reward= 102.961), step=5433 agent_position = ( -2.789, -1.993,  0.000) 
+Episode =  284, reward = -39.803 (best reward= 102.961), step=5453 agent_position = ( -3.012, -2.208,  0.000) 
+Episode =  285, reward = -35.536 (best reward= 102.961), step=5471 agent_position = ( -2.666, -1.695,  0.000) 
+Episode =  286, reward = -35.533 (best reward= 102.961), step=5489 agent_position = ( -2.655, -1.698,  0.000) 
+Episode =  287, reward = -37.680 (best reward= 102.961), step=5508 agent_position = ( -2.799, -2.019,  0.000) 
+Episode =  288, reward = -35.558 (best reward= 102.961), step=5526 agent_position = ( -2.663, -1.781,  0.000) 
+Episode =  289, reward = -37.666 (best reward= 102.961), step=5545 agent_position = ( -2.801, -1.988,  0.000) 
+Episode =  290, reward = -41.956 (best reward= 102.961), step=5566 agent_position = ( -3.230, -2.514,  0.000) 
+Episode =  291, reward = -35.541 (best reward= 102.961), step=5584 agent_position = ( -2.659, -1.726,  0.000) 
+Episode =  292, reward = -33.425 (best reward= 102.961), step=5601 agent_position = ( -2.489, -1.496,  0.000) 
+Episode =  293, reward = -35.561 (best reward= 102.961), step=5619 agent_position = ( -2.665, -1.807,  0.000) 
+Episode =  294, reward = -37.671 (best reward= 102.961), step=5638 agent_position = ( -2.800, -2.001,  0.000) 
+Episode =  295, reward = -39.811 (best reward= 102.961), step=5658 agent_position = ( -3.026, -2.264,  0.000) 
+Episode =  296, reward = -37.665 (best reward= 102.961), step=5677 agent_position = ( -2.807, -1.986,  0.000) 
+Episode =  297, reward = -37.676 (best reward= 102.961), step=5696 agent_position = ( -2.814, -2.008,  0.000) 
+Episode =  298, reward = -37.670 (best reward= 102.961), step=5715 agent_position = ( -2.802, -1.990,  0.000) 
+Episode =  299, reward = -35.544 (best reward= 102.961), step=5733 agent_position = ( -2.661, -1.727,  0.000) 
+Episode =  300, reward = -37.674 (best reward= 102.961), step=5752 agent_position = ( -2.801, -2.006,  0.000) 
+Episode =  301, reward = -37.681 (best reward= 102.961), step=5771 agent_position = ( -2.805, -2.040,  0.000) 
+Episode =  302, reward = -37.682 (best reward= 102.961), step=5790 agent_position = ( -2.812, -2.038,  0.000) 
+Episode =  303, reward = -37.661 (best reward= 102.961), step=5809 agent_position = ( -2.803, -1.972,  0.000) 
+Episode =  304, reward = -39.813 (best reward= 102.961), step=5829 agent_position = ( -3.013, -2.291,  0.000) 
+Episode =  305, reward = -37.666 (best reward= 102.961), step=5848 agent_position = ( -2.805, -1.977,  0.000) 
+Episode =  306, reward = -35.542 (best reward= 102.961), step=5866 agent_position = ( -2.654, -1.738,  0.000) 
+Episode =  307, reward = -35.545 (best reward= 102.961), step=5884 agent_position = ( -2.671, -1.753,  0.000) 
+Episode =  308, reward = -35.535 (best reward= 102.961), step=5902 agent_position = ( -2.650, -1.707,  0.000) 
+Episode =  309, reward = -35.544 (best reward= 102.961), step=5920 agent_position = ( -2.677, -1.725,  0.000) 
+Episode =  310, reward = -37.666 (best reward= 102.961), step=5939 agent_position = ( -2.801, -1.980,  0.000) 
+Episode =  311, reward = -37.670 (best reward= 102.961), step=5958 agent_position = ( -2.799, -2.015,  0.000) 
+Episode =  312, reward = -35.542 (best reward= 102.961), step=5976 agent_position = ( -2.644, -1.750,  0.000) 
+Episode =  313, reward = -39.813 (best reward= 102.961), step=5996 agent_position = ( -3.009, -2.303,  0.000) 
+Episode =  314, reward = -35.547 (best reward= 102.961), step=6014 agent_position = ( -2.670, -1.870,  0.000) 
+Episode =  315, reward = -19.265 (best reward= 102.961), step=6024 agent_position = ( -1.260, -1.193,  0.000) 
+Episode =  316, reward = -16.965 (best reward= 102.961), step=6033 agent_position = ( -0.538,  0.001,  0.000) 
+Episode =  317, reward = -18.928 (best reward= 102.961), step=6043 agent_position = ( -0.635,  0.000,  0.000) 
+Episode =  318, reward = -16.964 (best reward= 102.961), step=6052 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  319, reward = -16.964 (best reward= 102.961), step=6061 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  320, reward = -18.927 (best reward= 102.961), step=6071 agent_position = ( -0.633,  0.000,  0.000) 
+Episode =  321, reward = -16.966 (best reward= 102.961), step=6080 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  322, reward = -16.966 (best reward= 102.961), step=6089 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  323, reward = -16.963 (best reward= 102.961), step=6098 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  324, reward = -16.967 (best reward= 102.961), step=6107 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  325, reward = -16.967 (best reward= 102.961), step=6116 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  326, reward = -16.966 (best reward= 102.961), step=6125 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  327, reward = -16.965 (best reward= 102.961), step=6134 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  328, reward = -16.965 (best reward= 102.961), step=6143 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  329, reward = -16.962 (best reward= 102.961), step=6152 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  330, reward = -16.964 (best reward= 102.961), step=6161 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  331, reward = -16.963 (best reward= 102.961), step=6170 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  332, reward = -16.963 (best reward= 102.961), step=6179 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  333, reward = -16.962 (best reward= 102.961), step=6188 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  334, reward = -16.964 (best reward= 102.961), step=6197 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  335, reward = -16.963 (best reward= 102.961), step=6206 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  336, reward = -18.929 (best reward= 102.961), step=6216 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  337, reward = -16.965 (best reward= 102.961), step=6225 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  338, reward = -16.965 (best reward= 102.961), step=6234 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  339, reward = -16.964 (best reward= 102.961), step=6243 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  340, reward = -16.963 (best reward= 102.961), step=6252 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  341, reward = -16.964 (best reward= 102.961), step=6261 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  342, reward = -16.963 (best reward= 102.961), step=6270 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  343, reward = -16.964 (best reward= 102.961), step=6279 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  344, reward = -16.965 (best reward= 102.961), step=6288 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  345, reward = -16.964 (best reward= 102.961), step=6297 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  346, reward = -16.966 (best reward= 102.961), step=6306 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  347, reward = -16.963 (best reward= 102.961), step=6315 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  348, reward = -16.967 (best reward= 102.961), step=6324 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  349, reward = -16.963 (best reward= 102.961), step=6333 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  350, reward = -16.966 (best reward= 102.961), step=6342 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  351, reward = -16.963 (best reward= 102.961), step=6351 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  352, reward = -16.964 (best reward= 102.961), step=6360 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  353, reward = -16.966 (best reward= 102.961), step=6369 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  354, reward = -16.966 (best reward= 102.961), step=6378 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  355, reward = -16.966 (best reward= 102.961), step=6387 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  356, reward = -16.967 (best reward= 102.961), step=6396 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  357, reward = -18.928 (best reward= 102.961), step=6406 agent_position = ( -0.636, -0.000,  0.000) 
+Episode =  358, reward = -16.965 (best reward= 102.961), step=6415 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  359, reward = -16.963 (best reward= 102.961), step=6424 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  360, reward = -16.963 (best reward= 102.961), step=6433 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  361, reward = -16.965 (best reward= 102.961), step=6442 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  362, reward = -16.965 (best reward= 102.961), step=6451 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  363, reward = -16.966 (best reward= 102.961), step=6460 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  364, reward = -16.967 (best reward= 102.961), step=6469 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  365, reward = -16.967 (best reward= 102.961), step=6478 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  366, reward = -16.964 (best reward= 102.961), step=6487 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  367, reward = -16.968 (best reward= 102.961), step=6496 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  368, reward = -16.964 (best reward= 102.961), step=6505 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  369, reward = -16.964 (best reward= 102.961), step=6514 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  370, reward = -16.962 (best reward= 102.961), step=6523 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  371, reward = -18.929 (best reward= 102.961), step=6533 agent_position = ( -0.638,  0.000,  0.000) 
+Episode =  372, reward = -16.965 (best reward= 102.961), step=6542 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  373, reward = -16.964 (best reward= 102.961), step=6551 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  374, reward = -16.964 (best reward= 102.961), step=6560 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  375, reward = -16.964 (best reward= 102.961), step=6569 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  376, reward = -16.963 (best reward= 102.961), step=6578 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  377, reward = -16.962 (best reward= 102.961), step=6587 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  378, reward = -16.966 (best reward= 102.961), step=6596 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  379, reward = -16.964 (best reward= 102.961), step=6605 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  380, reward = -16.963 (best reward= 102.961), step=6614 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  381, reward = -16.963 (best reward= 102.961), step=6623 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  382, reward = -16.968 (best reward= 102.961), step=6632 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  383, reward = -18.930 (best reward= 102.961), step=6642 agent_position = ( -0.639, -0.000,  0.000) 
+Episode =  384, reward = -16.964 (best reward= 102.961), step=6651 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  385, reward = -16.965 (best reward= 102.961), step=6660 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  386, reward = -16.963 (best reward= 102.961), step=6669 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  387, reward = -16.963 (best reward= 102.961), step=6678 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  388, reward = -16.966 (best reward= 102.961), step=6687 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  389, reward = -16.963 (best reward= 102.961), step=6696 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  390, reward = -16.963 (best reward= 102.961), step=6705 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  391, reward = -16.965 (best reward= 102.961), step=6714 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  392, reward = -16.963 (best reward= 102.961), step=6723 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  393, reward = -16.966 (best reward= 102.961), step=6732 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  394, reward = -16.963 (best reward= 102.961), step=6741 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  395, reward = -16.963 (best reward= 102.961), step=6750 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  396, reward = -16.964 (best reward= 102.961), step=6759 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  397, reward = -16.966 (best reward= 102.961), step=6768 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  398, reward = -16.966 (best reward= 102.961), step=6777 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  399, reward = -16.963 (best reward= 102.961), step=6786 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  400, reward = -16.965 (best reward= 102.961), step=6795 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  401, reward = -16.966 (best reward= 102.961), step=6804 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  402, reward = -16.964 (best reward= 102.961), step=6813 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  403, reward = -16.964 (best reward= 102.961), step=6822 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  404, reward = -16.964 (best reward= 102.961), step=6831 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  405, reward = -16.965 (best reward= 102.961), step=6840 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  406, reward = -16.966 (best reward= 102.961), step=6849 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  407, reward = -16.962 (best reward= 102.961), step=6858 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  408, reward = -18.929 (best reward= 102.961), step=6868 agent_position = ( -0.635,  0.000,  0.000) 
+Episode =  409, reward = -16.964 (best reward= 102.961), step=6877 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  410, reward = -16.963 (best reward= 102.961), step=6886 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  411, reward = -16.963 (best reward= 102.961), step=6895 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  412, reward = -16.965 (best reward= 102.961), step=6904 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  413, reward = -16.965 (best reward= 102.961), step=6913 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  414, reward = -16.965 (best reward= 102.961), step=6922 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  415, reward = -16.964 (best reward= 102.961), step=6931 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  416, reward = -16.962 (best reward= 102.961), step=6940 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  417, reward = -16.966 (best reward= 102.961), step=6949 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  418, reward = -16.963 (best reward= 102.961), step=6958 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  419, reward = -16.966 (best reward= 102.961), step=6967 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  420, reward = -16.963 (best reward= 102.961), step=6976 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  421, reward = -16.963 (best reward= 102.961), step=6985 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  422, reward = -16.965 (best reward= 102.961), step=6994 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  423, reward = -18.928 (best reward= 102.961), step=7004 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  424, reward = -16.963 (best reward= 102.961), step=7013 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  425, reward = -16.968 (best reward= 102.961), step=7022 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  426, reward = -16.965 (best reward= 102.961), step=7031 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  427, reward = -18.929 (best reward= 102.961), step=7041 agent_position = ( -0.637, -0.000,  0.000) 
+Episode =  428, reward = -16.964 (best reward= 102.961), step=7050 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  429, reward = -16.964 (best reward= 102.961), step=7059 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  430, reward = -16.964 (best reward= 102.961), step=7068 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  431, reward = -16.964 (best reward= 102.961), step=7077 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  432, reward = -16.964 (best reward= 102.961), step=7086 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  433, reward = -16.964 (best reward= 102.961), step=7095 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  434, reward = -16.965 (best reward= 102.961), step=7104 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  435, reward = -16.965 (best reward= 102.961), step=7113 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  436, reward = -16.963 (best reward= 102.961), step=7122 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  437, reward = -16.965 (best reward= 102.961), step=7131 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  438, reward = -16.962 (best reward= 102.961), step=7140 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  439, reward = -16.963 (best reward= 102.961), step=7149 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  440, reward = -16.963 (best reward= 102.961), step=7158 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  441, reward = -16.964 (best reward= 102.961), step=7167 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  442, reward = -16.963 (best reward= 102.961), step=7176 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  443, reward = -16.967 (best reward= 102.961), step=7185 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  444, reward = -16.964 (best reward= 102.961), step=7194 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  445, reward = -18.929 (best reward= 102.961), step=7204 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  446, reward = -16.963 (best reward= 102.961), step=7213 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  447, reward = -16.963 (best reward= 102.961), step=7222 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  448, reward = -16.965 (best reward= 102.961), step=7231 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  449, reward = -16.964 (best reward= 102.961), step=7240 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  450, reward = -16.966 (best reward= 102.961), step=7249 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  451, reward = -16.967 (best reward= 102.961), step=7258 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  452, reward = -16.966 (best reward= 102.961), step=7267 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  453, reward = -16.966 (best reward= 102.961), step=7276 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  454, reward = -16.964 (best reward= 102.961), step=7285 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  455, reward = -16.965 (best reward= 102.961), step=7294 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  456, reward = -16.963 (best reward= 102.961), step=7303 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  457, reward = -16.964 (best reward= 102.961), step=7312 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  458, reward = -16.965 (best reward= 102.961), step=7321 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  459, reward = -16.964 (best reward= 102.961), step=7330 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  460, reward = -16.962 (best reward= 102.961), step=7339 agent_position = ( -0.532, -0.000,  0.000) 
+Episode =  461, reward = -16.964 (best reward= 102.961), step=7348 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  462, reward = -16.966 (best reward= 102.961), step=7357 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  463, reward = -16.966 (best reward= 102.961), step=7366 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  464, reward = -16.966 (best reward= 102.961), step=7375 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  465, reward = -18.929 (best reward= 102.961), step=7385 agent_position = ( -0.637,  0.000,  0.000) 
+Episode =  466, reward = -16.965 (best reward= 102.961), step=7394 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  467, reward = -16.964 (best reward= 102.961), step=7403 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  468, reward = -16.966 (best reward= 102.961), step=7412 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  469, reward = -16.965 (best reward= 102.961), step=7421 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  470, reward = -16.963 (best reward= 102.961), step=7430 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  471, reward = -18.930 (best reward= 102.961), step=7440 agent_position = ( -0.638, -0.000,  0.000) 
+Episode =  472, reward = -16.965 (best reward= 102.961), step=7449 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  473, reward = -16.964 (best reward= 102.961), step=7458 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  474, reward = -16.965 (best reward= 102.961), step=7467 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  475, reward = -16.963 (best reward= 102.961), step=7476 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  476, reward = -16.966 (best reward= 102.961), step=7485 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  477, reward = -16.963 (best reward= 102.961), step=7494 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  478, reward = -16.965 (best reward= 102.961), step=7503 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  479, reward = -16.964 (best reward= 102.961), step=7512 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  480, reward = -16.966 (best reward= 102.961), step=7521 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  481, reward = -16.967 (best reward= 102.961), step=7530 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  482, reward = -16.966 (best reward= 102.961), step=7539 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  483, reward = -16.965 (best reward= 102.961), step=7548 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  484, reward = -16.964 (best reward= 102.961), step=7557 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  485, reward = -16.963 (best reward= 102.961), step=7566 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  486, reward = -18.928 (best reward= 102.961), step=7576 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  487, reward = -16.963 (best reward= 102.961), step=7585 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  488, reward = -16.963 (best reward= 102.961), step=7594 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  489, reward = -16.964 (best reward= 102.961), step=7603 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  490, reward = -16.964 (best reward= 102.961), step=7612 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  491, reward = -16.966 (best reward= 102.961), step=7621 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  492, reward = -16.967 (best reward= 102.961), step=7630 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  493, reward = -16.962 (best reward= 102.961), step=7639 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  494, reward = -16.963 (best reward= 102.961), step=7648 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  495, reward = -16.966 (best reward= 102.961), step=7657 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  496, reward = -16.968 (best reward= 102.961), step=7666 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  497, reward = -16.963 (best reward= 102.961), step=7675 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  498, reward = -16.965 (best reward= 102.961), step=7684 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  499, reward = -16.966 (best reward= 102.961), step=7693 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  500, reward = -16.965 (best reward= 102.961), step=7702 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  501, reward = -18.930 (best reward= 102.961), step=7712 agent_position = ( -0.637, -0.000,  0.000) 
+Episode =  502, reward = -16.963 (best reward= 102.961), step=7721 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  503, reward = -16.964 (best reward= 102.961), step=7730 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  504, reward = -16.964 (best reward= 102.961), step=7739 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  505, reward = -16.964 (best reward= 102.961), step=7748 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  506, reward = -16.964 (best reward= 102.961), step=7757 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  507, reward = -16.965 (best reward= 102.961), step=7766 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  508, reward = -16.964 (best reward= 102.961), step=7775 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  509, reward = -16.962 (best reward= 102.961), step=7784 agent_position = ( -0.532, -0.000,  0.000) 
+Episode =  510, reward = -16.967 (best reward= 102.961), step=7793 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  511, reward = -16.964 (best reward= 102.961), step=7802 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  512, reward = -16.965 (best reward= 102.961), step=7811 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  513, reward = -16.965 (best reward= 102.961), step=7820 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  514, reward = -16.964 (best reward= 102.961), step=7829 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  515, reward = -16.964 (best reward= 102.961), step=7838 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  516, reward = -16.964 (best reward= 102.961), step=7847 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  517, reward = -16.965 (best reward= 102.961), step=7856 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  518, reward = -16.964 (best reward= 102.961), step=7865 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  519, reward = -16.965 (best reward= 102.961), step=7874 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  520, reward = -18.930 (best reward= 102.961), step=7884 agent_position = ( -0.638, -0.000,  0.000) 
+Episode =  521, reward = -16.962 (best reward= 102.961), step=7893 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  522, reward = -16.963 (best reward= 102.961), step=7902 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  523, reward = -16.966 (best reward= 102.961), step=7911 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  524, reward = -16.964 (best reward= 102.961), step=7920 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  525, reward = -16.962 (best reward= 102.961), step=7929 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  526, reward = -16.966 (best reward= 102.961), step=7938 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  527, reward = -16.963 (best reward= 102.961), step=7947 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  528, reward = -16.965 (best reward= 102.961), step=7956 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  529, reward = -16.963 (best reward= 102.961), step=7965 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  530, reward = -16.963 (best reward= 102.961), step=7974 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  531, reward = -16.965 (best reward= 102.961), step=7983 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  532, reward = -16.966 (best reward= 102.961), step=7992 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  533, reward = -16.962 (best reward= 102.961), step=8001 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  534, reward = -16.965 (best reward= 102.961), step=8010 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  535, reward = -16.965 (best reward= 102.961), step=8019 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  536, reward = -16.965 (best reward= 102.961), step=8028 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  537, reward = -16.968 (best reward= 102.961), step=8037 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  538, reward = -16.965 (best reward= 102.961), step=8046 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  539, reward = -16.965 (best reward= 102.961), step=8055 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  540, reward = -16.964 (best reward= 102.961), step=8064 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  541, reward = -16.966 (best reward= 102.961), step=8073 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  542, reward = -16.965 (best reward= 102.961), step=8082 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  543, reward = -16.966 (best reward= 102.961), step=8091 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  544, reward = -18.930 (best reward= 102.961), step=8101 agent_position = ( -0.637, -0.000,  0.000) 
+Episode =  545, reward = -16.962 (best reward= 102.961), step=8110 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  546, reward = -16.965 (best reward= 102.961), step=8119 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  547, reward = -16.965 (best reward= 102.961), step=8128 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  548, reward = -16.965 (best reward= 102.961), step=8137 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  549, reward = -16.965 (best reward= 102.961), step=8146 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  550, reward = -16.965 (best reward= 102.961), step=8155 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  551, reward = -16.965 (best reward= 102.961), step=8164 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  552, reward = -16.966 (best reward= 102.961), step=8173 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  553, reward = -16.962 (best reward= 102.961), step=8182 agent_position = ( -0.532, -0.000,  0.000) 
+Episode =  554, reward = -16.963 (best reward= 102.961), step=8191 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  555, reward = -16.964 (best reward= 102.961), step=8200 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  556, reward = -16.963 (best reward= 102.961), step=8209 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  557, reward = -18.930 (best reward= 102.961), step=8219 agent_position = ( -0.638,  0.000,  0.000) 
+Episode =  558, reward = -16.967 (best reward= 102.961), step=8228 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  559, reward = -16.962 (best reward= 102.961), step=8237 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  560, reward = -16.968 (best reward= 102.961), step=8246 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  561, reward = -16.962 (best reward= 102.961), step=8255 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  562, reward = -16.964 (best reward= 102.961), step=8264 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  563, reward = -18.928 (best reward= 102.961), step=8274 agent_position = ( -0.635, -0.000,  0.000) 
+Episode =  564, reward = -16.967 (best reward= 102.961), step=8283 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  565, reward = -16.962 (best reward= 102.961), step=8292 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  566, reward = -16.964 (best reward= 102.961), step=8301 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  567, reward = -16.963 (best reward= 102.961), step=8310 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  568, reward = -16.963 (best reward= 102.961), step=8319 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  569, reward = -16.966 (best reward= 102.961), step=8328 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  570, reward = -16.964 (best reward= 102.961), step=8337 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  571, reward = -16.964 (best reward= 102.961), step=8346 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  572, reward = -16.964 (best reward= 102.961), step=8355 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  573, reward = -16.963 (best reward= 102.961), step=8364 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  574, reward = -18.928 (best reward= 102.961), step=8374 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  575, reward = -16.966 (best reward= 102.961), step=8383 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  576, reward = -16.964 (best reward= 102.961), step=8392 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  577, reward = -16.963 (best reward= 102.961), step=8401 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  578, reward = -16.962 (best reward= 102.961), step=8410 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  579, reward = -16.963 (best reward= 102.961), step=8419 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  580, reward = -16.965 (best reward= 102.961), step=8428 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  581, reward = -16.967 (best reward= 102.961), step=8437 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  582, reward = -16.964 (best reward= 102.961), step=8446 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  583, reward = -16.964 (best reward= 102.961), step=8455 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  584, reward = -16.965 (best reward= 102.961), step=8464 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  585, reward = -16.965 (best reward= 102.961), step=8473 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  586, reward = -16.964 (best reward= 102.961), step=8482 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  587, reward = -16.962 (best reward= 102.961), step=8491 agent_position = ( -0.532, -0.000,  0.000) 
+Episode =  588, reward = -16.964 (best reward= 102.961), step=8500 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  589, reward = -16.963 (best reward= 102.961), step=8509 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  590, reward = -16.965 (best reward= 102.961), step=8518 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  591, reward = -16.965 (best reward= 102.961), step=8527 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  592, reward = -16.966 (best reward= 102.961), step=8536 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  593, reward = -16.966 (best reward= 102.961), step=8545 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  594, reward = -16.965 (best reward= 102.961), step=8554 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  595, reward = -16.964 (best reward= 102.961), step=8563 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  596, reward = -16.966 (best reward= 102.961), step=8572 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  597, reward = -16.964 (best reward= 102.961), step=8581 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  598, reward = -16.964 (best reward= 102.961), step=8590 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  599, reward = -16.965 (best reward= 102.961), step=8599 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  600, reward = -16.966 (best reward= 102.961), step=8608 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  601, reward = -16.964 (best reward= 102.961), step=8617 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  602, reward = -16.963 (best reward= 102.961), step=8626 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  603, reward = -16.967 (best reward= 102.961), step=8635 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  604, reward = -16.966 (best reward= 102.961), step=8644 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  605, reward = -16.964 (best reward= 102.961), step=8653 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  606, reward = -16.965 (best reward= 102.961), step=8662 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  607, reward = -16.967 (best reward= 102.961), step=8671 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  608, reward = -16.963 (best reward= 102.961), step=8680 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  609, reward = -18.931 (best reward= 102.961), step=8690 agent_position = ( -0.639, -0.000,  0.000) 
+Episode =  610, reward = -16.965 (best reward= 102.961), step=8699 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  611, reward = -16.964 (best reward= 102.961), step=8708 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  612, reward = -16.964 (best reward= 102.961), step=8717 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  613, reward = -16.963 (best reward= 102.961), step=8726 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  614, reward = -16.963 (best reward= 102.961), step=8735 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  615, reward = -16.964 (best reward= 102.961), step=8744 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  616, reward = -16.965 (best reward= 102.961), step=8753 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  617, reward = -16.963 (best reward= 102.961), step=8762 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  618, reward = -16.964 (best reward= 102.961), step=8771 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  619, reward = -16.963 (best reward= 102.961), step=8780 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  620, reward = -16.963 (best reward= 102.961), step=8789 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  621, reward = -16.965 (best reward= 102.961), step=8798 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  622, reward = -16.965 (best reward= 102.961), step=8807 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  623, reward = -16.968 (best reward= 102.961), step=8816 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  624, reward = -16.964 (best reward= 102.961), step=8825 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  625, reward = -16.967 (best reward= 102.961), step=8834 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  626, reward = -16.963 (best reward= 102.961), step=8843 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  627, reward = -16.963 (best reward= 102.961), step=8852 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  628, reward = -16.964 (best reward= 102.961), step=8861 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  629, reward = -16.963 (best reward= 102.961), step=8870 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  630, reward = -16.965 (best reward= 102.961), step=8879 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  631, reward = -16.964 (best reward= 102.961), step=8888 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  632, reward = -16.964 (best reward= 102.961), step=8897 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  633, reward = -16.964 (best reward= 102.961), step=8906 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  634, reward = -16.965 (best reward= 102.961), step=8915 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  635, reward = -16.963 (best reward= 102.961), step=8924 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  636, reward = -16.964 (best reward= 102.961), step=8933 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  637, reward = -16.962 (best reward= 102.961), step=8942 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  638, reward = -16.963 (best reward= 102.961), step=8951 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  639, reward = -16.967 (best reward= 102.961), step=8960 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  640, reward = -16.966 (best reward= 102.961), step=8969 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  641, reward = -16.967 (best reward= 102.961), step=8978 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  642, reward = -16.969 (best reward= 102.961), step=8987 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  643, reward = -16.963 (best reward= 102.961), step=8996 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  644, reward = -16.968 (best reward= 102.961), step=9005 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  645, reward = -16.966 (best reward= 102.961), step=9014 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  646, reward = -16.963 (best reward= 102.961), step=9023 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  647, reward = -16.962 (best reward= 102.961), step=9032 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  648, reward = -16.965 (best reward= 102.961), step=9041 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  649, reward = -16.967 (best reward= 102.961), step=9050 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  650, reward = -16.965 (best reward= 102.961), step=9059 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  651, reward = -16.963 (best reward= 102.961), step=9068 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  652, reward = -16.963 (best reward= 102.961), step=9077 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  653, reward = -16.962 (best reward= 102.961), step=9086 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  654, reward = -16.965 (best reward= 102.961), step=9095 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  655, reward = -16.968 (best reward= 102.961), step=9104 agent_position = ( -0.539,  0.000,  0.000) 
+Episode =  656, reward = -16.967 (best reward= 102.961), step=9113 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  657, reward = -16.963 (best reward= 102.961), step=9122 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  658, reward = -16.963 (best reward= 102.961), step=9131 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  659, reward = -16.965 (best reward= 102.961), step=9140 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  660, reward = -16.965 (best reward= 102.961), step=9149 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  661, reward = -16.968 (best reward= 102.961), step=9158 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  662, reward = -16.963 (best reward= 102.961), step=9167 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  663, reward = -16.965 (best reward= 102.961), step=9176 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  664, reward = -18.928 (best reward= 102.961), step=9186 agent_position = ( -0.635,  0.000,  0.000) 
+Episode =  665, reward = -16.965 (best reward= 102.961), step=9195 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  666, reward = -16.965 (best reward= 102.961), step=9204 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  667, reward = -16.966 (best reward= 102.961), step=9213 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  668, reward = -16.964 (best reward= 102.961), step=9222 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  669, reward = -16.965 (best reward= 102.961), step=9231 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  670, reward = -16.962 (best reward= 102.961), step=9240 agent_position = ( -0.532,  0.000,  0.000) 
+Episode =  671, reward = -16.964 (best reward= 102.961), step=9249 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  672, reward = -16.964 (best reward= 102.961), step=9258 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  673, reward = -18.929 (best reward= 102.961), step=9268 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  674, reward = -16.964 (best reward= 102.961), step=9277 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  675, reward = -16.963 (best reward= 102.961), step=9286 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  676, reward = -16.966 (best reward= 102.961), step=9295 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  677, reward = -16.966 (best reward= 102.961), step=9304 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  678, reward = -16.963 (best reward= 102.961), step=9313 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  679, reward = -16.962 (best reward= 102.961), step=9322 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  680, reward = -16.965 (best reward= 102.961), step=9331 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  681, reward = -16.964 (best reward= 102.961), step=9340 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  682, reward = -16.966 (best reward= 102.961), step=9349 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  683, reward = -16.964 (best reward= 102.961), step=9358 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  684, reward = -16.965 (best reward= 102.961), step=9367 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  685, reward = -16.964 (best reward= 102.961), step=9376 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  686, reward = -16.967 (best reward= 102.961), step=9385 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  687, reward = -16.964 (best reward= 102.961), step=9394 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  688, reward = -16.965 (best reward= 102.961), step=9403 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  689, reward = -16.965 (best reward= 102.961), step=9412 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  690, reward = -16.966 (best reward= 102.961), step=9421 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  691, reward = -16.965 (best reward= 102.961), step=9430 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  692, reward = -16.965 (best reward= 102.961), step=9439 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  693, reward = -16.966 (best reward= 102.961), step=9448 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  694, reward = -16.964 (best reward= 102.961), step=9457 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  695, reward = -16.966 (best reward= 102.961), step=9466 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  696, reward = -16.963 (best reward= 102.961), step=9475 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  697, reward = -16.962 (best reward= 102.961), step=9484 agent_position = ( -0.532,  0.000,  0.000) 
+Episode =  698, reward = -16.966 (best reward= 102.961), step=9493 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  699, reward = -16.962 (best reward= 102.961), step=9502 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  700, reward = -18.928 (best reward= 102.961), step=9512 agent_position = ( -0.634, -0.000,  0.000) 
+Episode =  701, reward = -16.965 (best reward= 102.961), step=9521 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  702, reward = -16.963 (best reward= 102.961), step=9530 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  703, reward = -16.965 (best reward= 102.961), step=9539 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  704, reward = -16.964 (best reward= 102.961), step=9548 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  705, reward = -16.964 (best reward= 102.961), step=9557 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  706, reward = -16.965 (best reward= 102.961), step=9566 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  707, reward = -16.967 (best reward= 102.961), step=9575 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  708, reward = -16.963 (best reward= 102.961), step=9584 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  709, reward = -16.968 (best reward= 102.961), step=9593 agent_position = ( -0.541, -0.000,  0.000) 
+Episode =  710, reward = -16.965 (best reward= 102.961), step=9602 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  711, reward = -16.964 (best reward= 102.961), step=9611 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  712, reward = -16.963 (best reward= 102.961), step=9620 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  713, reward = -16.964 (best reward= 102.961), step=9629 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  714, reward = -16.963 (best reward= 102.961), step=9638 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  715, reward = -18.930 (best reward= 102.961), step=9648 agent_position = ( -0.637,  0.000,  0.000) 
+Episode =  716, reward = -16.965 (best reward= 102.961), step=9657 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  717, reward = -16.963 (best reward= 102.961), step=9666 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  718, reward = -16.968 (best reward= 102.961), step=9675 agent_position = ( -0.540, -0.000,  0.000) 
+Episode =  719, reward = -16.964 (best reward= 102.961), step=9684 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  720, reward = -18.928 (best reward= 102.961), step=9694 agent_position = ( -0.635, -0.000,  0.000) 
+Episode =  721, reward = -16.965 (best reward= 102.961), step=9703 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  722, reward = -16.964 (best reward= 102.961), step=9712 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  723, reward = -18.928 (best reward= 102.961), step=9722 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  724, reward = -16.966 (best reward= 102.961), step=9731 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  725, reward = -16.962 (best reward= 102.961), step=9740 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  726, reward = -16.966 (best reward= 102.961), step=9749 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  727, reward = -16.965 (best reward= 102.961), step=9758 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  728, reward = -16.966 (best reward= 102.961), step=9767 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  729, reward = -16.966 (best reward= 102.961), step=9776 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  730, reward = -16.965 (best reward= 102.961), step=9785 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  731, reward = -16.966 (best reward= 102.961), step=9794 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  732, reward = -16.964 (best reward= 102.961), step=9803 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  733, reward = -16.962 (best reward= 102.961), step=9812 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  734, reward = -16.963 (best reward= 102.961), step=9821 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  735, reward = -16.964 (best reward= 102.961), step=9830 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  736, reward = -18.929 (best reward= 102.961), step=9840 agent_position = ( -0.637,  0.000,  0.000) 
+Episode =  737, reward = -16.964 (best reward= 102.961), step=9849 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  738, reward = -16.966 (best reward= 102.961), step=9858 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  739, reward = -16.964 (best reward= 102.961), step=9867 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  740, reward = -16.966 (best reward= 102.961), step=9876 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  741, reward = -16.963 (best reward= 102.961), step=9885 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  742, reward = -16.962 (best reward= 102.961), step=9894 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  743, reward = -16.964 (best reward= 102.961), step=9903 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  744, reward = -16.965 (best reward= 102.961), step=9912 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  745, reward = -16.965 (best reward= 102.961), step=9921 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  746, reward = -18.929 (best reward= 102.961), step=9931 agent_position = ( -0.636, -0.000,  0.000) 
+Episode =  747, reward = -16.963 (best reward= 102.961), step=9940 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  748, reward = -16.964 (best reward= 102.961), step=9949 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  749, reward = -16.965 (best reward= 102.961), step=9958 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  750, reward = -16.963 (best reward= 102.961), step=9967 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  751, reward = -16.962 (best reward= 102.961), step=9976 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  752, reward = -16.963 (best reward= 102.961), step=9985 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  753, reward = -16.966 (best reward= 102.961), step=9994 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  754, reward = -16.967 (best reward= 102.961), step=10003 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  755, reward = -16.965 (best reward= 102.961), step=10012 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  756, reward = -16.967 (best reward= 102.961), step=10021 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  757, reward = -16.962 (best reward= 102.961), step=10030 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  758, reward = -16.964 (best reward= 102.961), step=10039 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  759, reward = -16.964 (best reward= 102.961), step=10048 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  760, reward = -16.964 (best reward= 102.961), step=10057 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  761, reward = -16.964 (best reward= 102.961), step=10066 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  762, reward = -16.964 (best reward= 102.961), step=10075 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  763, reward = -16.962 (best reward= 102.961), step=10084 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  764, reward = -16.967 (best reward= 102.961), step=10093 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  765, reward = -16.962 (best reward= 102.961), step=10102 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  766, reward = -18.929 (best reward= 102.961), step=10112 agent_position = ( -0.636, -0.000,  0.000) 
+Episode =  767, reward = -16.965 (best reward= 102.961), step=10121 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  768, reward = -16.965 (best reward= 102.961), step=10130 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  769, reward = -16.965 (best reward= 102.961), step=10139 agent_position = ( -0.535,  0.000,  0.000) 
+Episode =  770, reward = -16.965 (best reward= 102.961), step=10148 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  771, reward = -16.966 (best reward= 102.961), step=10157 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  772, reward = -16.962 (best reward= 102.961), step=10166 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  773, reward = -16.962 (best reward= 102.961), step=10175 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  774, reward = -16.963 (best reward= 102.961), step=10184 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  775, reward = -16.967 (best reward= 102.961), step=10193 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  776, reward = -16.964 (best reward= 102.961), step=10202 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  777, reward = -16.964 (best reward= 102.961), step=10211 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  778, reward = -18.929 (best reward= 102.961), step=10221 agent_position = ( -0.637,  0.000,  0.000) 
+Episode =  779, reward = -16.962 (best reward= 102.961), step=10230 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  780, reward = -18.930 (best reward= 102.961), step=10240 agent_position = ( -0.638,  0.000,  0.000) 
+Episode =  781, reward = -16.963 (best reward= 102.961), step=10249 agent_position = ( -0.533,  0.000,  0.000) 
+Episode =  782, reward = -16.963 (best reward= 102.961), step=10258 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  783, reward = -16.963 (best reward= 102.961), step=10267 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  784, reward = -16.968 (best reward= 102.961), step=10276 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  785, reward = -16.965 (best reward= 102.961), step=10285 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  786, reward = -16.963 (best reward= 102.961), step=10294 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  787, reward = -18.930 (best reward= 102.961), step=10304 agent_position = ( -0.638, -0.000,  0.000) 
+Episode =  788, reward = -16.964 (best reward= 102.961), step=10313 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  789, reward = -16.965 (best reward= 102.961), step=10322 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  790, reward = -16.964 (best reward= 102.961), step=10331 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  791, reward = -16.963 (best reward= 102.961), step=10340 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  792, reward = -16.966 (best reward= 102.961), step=10349 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  793, reward = -16.964 (best reward= 102.961), step=10358 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  794, reward = -18.929 (best reward= 102.961), step=10368 agent_position = ( -0.636, -0.000,  0.000) 
+Episode =  795, reward = -16.963 (best reward= 102.961), step=10377 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  796, reward = -16.964 (best reward= 102.961), step=10386 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  797, reward = -16.963 (best reward= 102.961), step=10395 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  798, reward = -16.965 (best reward= 102.961), step=10404 agent_position = ( -0.536,  0.000,  0.000) 
+Episode =  799, reward = -16.962 (best reward= 102.961), step=10413 agent_position = ( -0.534,  0.000,  0.000) 
+Episode =  800, reward = -16.965 (best reward= 102.961), step=10422 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  801, reward = -16.967 (best reward= 102.961), step=10431 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  802, reward = -18.929 (best reward= 102.961), step=10441 agent_position = ( -0.636,  0.000,  0.000) 
+Episode =  803, reward = -16.965 (best reward= 102.961), step=10450 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  804, reward = -16.966 (best reward= 102.961), step=10459 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  805, reward = -16.965 (best reward= 102.961), step=10468 agent_position = ( -0.538,  0.000,  0.000) 
+Episode =  806, reward = -16.967 (best reward= 102.961), step=10477 agent_position = ( -0.539, -0.000,  0.000) 
+Episode =  807, reward = -18.929 (best reward= 102.961), step=10487 agent_position = ( -0.635, -0.000,  0.000) 
+Episode =  808, reward = -16.963 (best reward= 102.961), step=10496 agent_position = ( -0.533, -0.000,  0.000) 
+Episode =  809, reward = -16.964 (best reward= 102.961), step=10505 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  810, reward = -16.965 (best reward= 102.961), step=10514 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  811, reward = -16.964 (best reward= 102.961), step=10523 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  812, reward = -16.966 (best reward= 102.961), step=10532 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  813, reward = -16.965 (best reward= 102.961), step=10541 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  814, reward = -16.965 (best reward= 102.961), step=10550 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  815, reward = -16.963 (best reward= 102.961), step=10559 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  816, reward = -16.967 (best reward= 102.961), step=10568 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  817, reward = -16.964 (best reward= 102.961), step=10577 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  818, reward = -16.963 (best reward= 102.961), step=10586 agent_position = ( -0.535, -0.000,  0.000) 
+Episode =  819, reward = -16.967 (best reward= 102.961), step=10595 agent_position = ( -0.537,  0.000,  0.000) 
+Episode =  820, reward = -18.929 (best reward= 102.961), step=10605 agent_position = ( -0.637,  0.000,  0.000) 
+Episode =  821, reward = -16.966 (best reward= 102.961), step=10614 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  822, reward = -16.967 (best reward= 102.961), step=10623 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  823, reward = -18.927 (best reward= 102.961), step=10633 agent_position = ( -0.634, -0.000,  0.000) 
+Episode =  824, reward = -16.962 (best reward= 102.961), step=10642 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  825, reward = -16.963 (best reward= 102.961), step=10651 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  826, reward = -16.967 (best reward= 102.961), step=10660 agent_position = ( -0.538, -0.000,  0.000) 
+Episode =  827, reward = -16.963 (best reward= 102.961), step=10669 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  828, reward = -16.964 (best reward= 102.961), step=10678 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  829, reward = -16.966 (best reward= 102.961), step=10687 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  830, reward = -16.964 (best reward= 102.961), step=10696 agent_position = ( -0.537, -0.000,  0.000) 
+Episode =  831, reward = -16.964 (best reward= 102.961), step=10705 agent_position = ( -0.534, -0.000,  0.000) 
+Episode =  832, reward = -18.928 (best reward= 102.961), step=10715 agent_position = ( -0.636, -0.000,  0.000) 
+Episode =  833, reward = -16.964 (best reward= 102.961), step=10724 agent_position = ( -0.536, -0.000,  0.000) 
+Episode =  834, reward = -18.935 (best reward= 102.961), step=10734 agent_position = ( -0.684, -0.036,  0.000) 
+Episode =  835, reward = -29.925 (best reward= 102.961), step=10749 agent_position = ( -2.095, -3.450,  0.000) 
+Episode =  836, reward = -105.597 (best reward= 102.961), step=10833 agent_position = (-13.533, -5.366, 26.598) 
+Episode =  837, reward = -41.917 (best reward= 102.961), step=10854 agent_position = ( -1.095,  4.084,  0.000) 
+Episode =  838, reward = -16.964 (best reward= 102.961), step=10863 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  839, reward = -16.965 (best reward= 102.961), step=10872 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  840, reward = -16.966 (best reward= 102.961), step=10881 agent_position = ( -0.000,  0.538,  0.000) 
+Episode =  841, reward = -16.963 (best reward= 102.961), step=10890 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  842, reward = -16.965 (best reward= 102.961), step=10899 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  843, reward = -16.963 (best reward= 102.961), step=10908 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  844, reward = -18.930 (best reward= 102.961), step=10918 agent_position = ( -0.000,  0.636,  0.000) 
+Episode =  845, reward = -16.966 (best reward= 102.961), step=10927 agent_position = (  0.000,  0.536,  0.000) 
+Episode =  846, reward = -16.964 (best reward= 102.961), step=10936 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  847, reward = -18.930 (best reward= 102.961), step=10946 agent_position = (  0.000,  0.636,  0.000) 
+Episode =  848, reward = -16.963 (best reward= 102.961), step=10955 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  849, reward = -16.965 (best reward= 102.961), step=10964 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  850, reward = -16.963 (best reward= 102.961), step=10973 agent_position = ( -0.000,  0.532,  0.000) 
+Episode =  851, reward = -16.962 (best reward= 102.961), step=10982 agent_position = (  0.000,  0.532,  0.000) 
+Episode =  852, reward = -16.963 (best reward= 102.961), step=10991 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  853, reward = -18.930 (best reward= 102.961), step=11001 agent_position = ( -0.000,  0.636,  0.000) 
+Episode =  854, reward = -16.964 (best reward= 102.961), step=11010 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  855, reward = -16.963 (best reward= 102.961), step=11019 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  856, reward = -16.964 (best reward= 102.961), step=11028 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  857, reward = -16.966 (best reward= 102.961), step=11037 agent_position = (  0.000,  0.536,  0.000) 
+Episode =  858, reward = -16.964 (best reward= 102.961), step=11046 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  859, reward = -18.928 (best reward= 102.961), step=11056 agent_position = (  0.000,  0.633,  0.000) 
+Episode =  860, reward = -16.966 (best reward= 102.961), step=11065 agent_position = (  0.000,  0.536,  0.000) 
+Episode =  861, reward = -16.963 (best reward= 102.961), step=11074 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  862, reward = -16.963 (best reward= 102.961), step=11083 agent_position = ( -0.000,  0.532,  0.000) 
+Episode =  863, reward = -16.965 (best reward= 102.961), step=11092 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  864, reward = -16.965 (best reward= 102.961), step=11101 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  865, reward = -16.966 (best reward= 102.961), step=11110 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  866, reward = -18.929 (best reward= 102.961), step=11120 agent_position = ( -0.000,  0.633,  0.000) 
+Episode =  867, reward = -16.963 (best reward= 102.961), step=11129 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  868, reward = -16.964 (best reward= 102.961), step=11138 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  869, reward = -18.929 (best reward= 102.961), step=11148 agent_position = (  0.000,  0.635,  0.000) 
+Episode =  870, reward = -16.967 (best reward= 102.961), step=11157 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  871, reward = -16.966 (best reward= 102.961), step=11166 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  872, reward = -16.965 (best reward= 102.961), step=11175 agent_position = ( -0.000,  0.537,  0.000) 
+Episode =  873, reward = -16.964 (best reward= 102.961), step=11184 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  874, reward = -16.963 (best reward= 102.961), step=11193 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  875, reward = -18.930 (best reward= 102.961), step=11203 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  876, reward = -16.965 (best reward= 102.961), step=11212 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  877, reward = -16.965 (best reward= 102.961), step=11221 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  878, reward = -16.963 (best reward= 102.961), step=11230 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  879, reward = -16.962 (best reward= 102.961), step=11239 agent_position = (  0.000,  0.531,  0.000) 
+Episode =  880, reward = -16.963 (best reward= 102.961), step=11248 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  881, reward = -16.963 (best reward= 102.961), step=11257 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  882, reward = -16.963 (best reward= 102.961), step=11266 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  883, reward = -18.928 (best reward= 102.961), step=11276 agent_position = ( -0.000,  0.633,  0.000) 
+Episode =  884, reward = -16.967 (best reward= 102.961), step=11285 agent_position = (  0.000,  0.538,  0.000) 
+Episode =  885, reward = -16.963 (best reward= 102.961), step=11294 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  886, reward = -16.965 (best reward= 102.961), step=11303 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  887, reward = -18.929 (best reward= 102.961), step=11313 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  888, reward = -16.963 (best reward= 102.961), step=11322 agent_position = (  0.000,  0.532,  0.000) 
+Episode =  889, reward = -16.965 (best reward= 102.961), step=11331 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  890, reward = -16.964 (best reward= 102.961), step=11340 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  891, reward = -18.928 (best reward= 102.961), step=11350 agent_position = ( -0.000,  0.633,  0.000) 
+Episode =  892, reward = -16.967 (best reward= 102.961), step=11359 agent_position = ( -0.000,  0.538,  0.000) 
+Episode =  893, reward = -16.966 (best reward= 102.961), step=11368 agent_position = ( -0.000,  0.538,  0.000) 
+Episode =  894, reward = -18.930 (best reward= 102.961), step=11378 agent_position = ( -0.000,  0.636,  0.000) 
+Episode =  895, reward = -16.963 (best reward= 102.961), step=11387 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  896, reward = -16.964 (best reward= 102.961), step=11396 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  897, reward = -18.929 (best reward= 102.961), step=11406 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  898, reward = -16.964 (best reward= 102.961), step=11415 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  899, reward = -16.965 (best reward= 102.961), step=11424 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  900, reward = -16.966 (best reward= 102.961), step=11433 agent_position = ( -0.000,  0.537,  0.000) 
+Episode =  901, reward = -16.962 (best reward= 102.961), step=11442 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  902, reward = -16.964 (best reward= 102.961), step=11451 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  903, reward = -16.964 (best reward= 102.961), step=11460 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  904, reward = -16.964 (best reward= 102.961), step=11469 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  905, reward = -16.965 (best reward= 102.961), step=11478 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  906, reward = -18.927 (best reward= 102.961), step=11488 agent_position = ( -0.000,  0.633,  0.000) 
+Episode =  907, reward = -16.962 (best reward= 102.961), step=11497 agent_position = (  0.000,  0.531,  0.000) 
+Episode =  908, reward = -18.929 (best reward= 102.961), step=11507 agent_position = (  0.000,  0.635,  0.000) 
+Episode =  909, reward = -16.966 (best reward= 102.961), step=11516 agent_position = ( -0.000,  0.537,  0.000) 
+Episode =  910, reward = -18.930 (best reward= 102.961), step=11526 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  911, reward = -16.964 (best reward= 102.961), step=11535 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  912, reward = -16.964 (best reward= 102.961), step=11544 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  913, reward = -16.967 (best reward= 102.961), step=11553 agent_position = (  0.000,  0.538,  0.000) 
+Episode =  914, reward = -16.964 (best reward= 102.961), step=11562 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  915, reward = -18.928 (best reward= 102.961), step=11572 agent_position = ( -0.000,  0.632,  0.000) 
+Episode =  916, reward = -16.967 (best reward= 102.961), step=11581 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  917, reward = -16.965 (best reward= 102.961), step=11590 agent_position = (  0.000,  0.536,  0.000) 
+Episode =  918, reward = -16.965 (best reward= 102.961), step=11599 agent_position = (  0.000,  0.536,  0.000) 
+Episode =  919, reward = -16.966 (best reward= 102.961), step=11608 agent_position = (  0.000,  0.538,  0.000) 
+Episode =  920, reward = -16.964 (best reward= 102.961), step=11617 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  921, reward = -16.963 (best reward= 102.961), step=11626 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  922, reward = -18.929 (best reward= 102.961), step=11636 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  923, reward = -16.963 (best reward= 102.961), step=11645 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  924, reward = -16.963 (best reward= 102.961), step=11654 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  925, reward = -16.964 (best reward= 102.961), step=11663 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  926, reward = -16.962 (best reward= 102.961), step=11672 agent_position = ( -0.000,  0.531,  0.000) 
+Episode =  927, reward = -16.964 (best reward= 102.961), step=11681 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  928, reward = -16.964 (best reward= 102.961), step=11690 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  929, reward = -16.966 (best reward= 102.961), step=11699 agent_position = ( -0.000,  0.537,  0.000) 
+Episode =  930, reward = -16.964 (best reward= 102.961), step=11708 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  931, reward = -16.963 (best reward= 102.961), step=11717 agent_position = (  0.000,  0.532,  0.000) 
+Episode =  932, reward = -18.929 (best reward= 102.961), step=11727 agent_position = ( -0.000,  0.634,  0.000) 
+Episode =  933, reward = -18.929 (best reward= 102.961), step=11737 agent_position = (  0.000,  0.636,  0.000) 
+Episode =  934, reward = -16.965 (best reward= 102.961), step=11746 agent_position = (  0.000,  0.536,  0.000) 
+Episode =  935, reward = -16.965 (best reward= 102.961), step=11755 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  936, reward = -16.963 (best reward= 102.961), step=11764 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  937, reward = -16.965 (best reward= 102.961), step=11773 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  938, reward = -18.931 (best reward= 102.961), step=11783 agent_position = ( -0.000,  0.637,  0.000) 
+Episode =  939, reward = -16.964 (best reward= 102.961), step=11792 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  940, reward = -18.930 (best reward= 102.961), step=11802 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  941, reward = -16.962 (best reward= 102.961), step=11811 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  942, reward = -18.929 (best reward= 102.961), step=11821 agent_position = ( -0.000,  0.636,  0.000) 
+Episode =  943, reward = -16.964 (best reward= 102.961), step=11830 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  944, reward = -18.929 (best reward= 102.961), step=11840 agent_position = (  0.000,  0.633,  0.000) 
+Episode =  945, reward = -16.964 (best reward= 102.961), step=11849 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  946, reward = -16.963 (best reward= 102.961), step=11858 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  947, reward = -16.962 (best reward= 102.961), step=11867 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  948, reward = -16.965 (best reward= 102.961), step=11876 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  949, reward = -16.965 (best reward= 102.961), step=11885 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  950, reward = -16.964 (best reward= 102.961), step=11894 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  951, reward = -18.928 (best reward= 102.961), step=11904 agent_position = ( -0.000,  0.633,  0.000) 
+Episode =  952, reward = -16.963 (best reward= 102.961), step=11913 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  953, reward = -16.963 (best reward= 102.961), step=11922 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  954, reward = -16.963 (best reward= 102.961), step=11931 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  955, reward = -16.964 (best reward= 102.961), step=11940 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  956, reward = -16.963 (best reward= 102.961), step=11949 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  957, reward = -18.929 (best reward= 102.961), step=11959 agent_position = (  0.000,  0.634,  0.000) 
+Episode =  958, reward = -18.928 (best reward= 102.961), step=11969 agent_position = ( -0.000,  0.634,  0.000) 
+Episode =  959, reward = -16.964 (best reward= 102.961), step=11978 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  960, reward = -16.964 (best reward= 102.961), step=11987 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  961, reward = -16.962 (best reward= 102.961), step=11996 agent_position = (  0.000,  0.530,  0.000) 
+Episode =  962, reward = -16.963 (best reward= 102.961), step=12005 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  963, reward = -18.930 (best reward= 102.961), step=12015 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  964, reward = -18.929 (best reward= 102.961), step=12025 agent_position = ( -0.000,  0.634,  0.000) 
+Episode =  965, reward = -16.962 (best reward= 102.961), step=12034 agent_position = ( -0.000,  0.532,  0.000) 
+Episode =  966, reward = -18.929 (best reward= 102.961), step=12044 agent_position = (  0.000,  0.633,  0.000) 
+Episode =  967, reward = -16.962 (best reward= 102.961), step=12053 agent_position = (  0.000,  0.532,  0.000) 
+Episode =  968, reward = -16.964 (best reward= 102.961), step=12062 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  969, reward = -18.928 (best reward= 102.961), step=12072 agent_position = ( -0.000,  0.634,  0.000) 
+Episode =  970, reward = -16.965 (best reward= 102.961), step=12081 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  971, reward = -16.964 (best reward= 102.961), step=12090 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  972, reward = -18.928 (best reward= 102.961), step=12100 agent_position = (  0.000,  0.632,  0.000) 
+Episode =  973, reward = -16.965 (best reward= 102.961), step=12109 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  974, reward = -18.930 (best reward= 102.961), step=12119 agent_position = (  0.000,  0.636,  0.000) 
+Episode =  975, reward = -16.962 (best reward= 102.961), step=12128 agent_position = (  0.000,  0.531,  0.000) 
+Episode =  976, reward = -16.963 (best reward= 102.961), step=12137 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  977, reward = -18.929 (best reward= 102.961), step=12147 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  978, reward = -16.964 (best reward= 102.961), step=12156 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  979, reward = -18.930 (best reward= 102.961), step=12166 agent_position = ( -0.000,  0.636,  0.000) 
+Episode =  980, reward = -16.962 (best reward= 102.961), step=12175 agent_position = ( -0.000,  0.531,  0.000) 
+Episode =  981, reward = -18.929 (best reward= 102.961), step=12185 agent_position = ( -0.000,  0.635,  0.000) 
+Episode =  982, reward = -16.963 (best reward= 102.961), step=12194 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  983, reward = -16.966 (best reward= 102.961), step=12203 agent_position = ( -0.000,  0.536,  0.000) 
+Episode =  984, reward = -16.965 (best reward= 102.961), step=12212 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  985, reward = -16.964 (best reward= 102.961), step=12221 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  986, reward = -16.967 (best reward= 102.961), step=12230 agent_position = (  0.000,  0.536,  0.000) 
+Episode =  987, reward = -16.964 (best reward= 102.961), step=12239 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  988, reward = -16.964 (best reward= 102.961), step=12248 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  989, reward = -16.964 (best reward= 102.961), step=12257 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  990, reward = -16.965 (best reward= 102.961), step=12266 agent_position = (  0.000,  0.535,  0.000) 
+Episode =  991, reward = -16.962 (best reward= 102.961), step=12275 agent_position = (  0.000,  0.531,  0.000) 
+Episode =  992, reward = -16.965 (best reward= 102.961), step=12284 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  993, reward = -16.964 (best reward= 102.961), step=12293 agent_position = (  0.000,  0.534,  0.000) 
+Episode =  994, reward = -16.967 (best reward= 102.961), step=12302 agent_position = (  0.000,  0.537,  0.000) 
+Episode =  995, reward = -16.964 (best reward= 102.961), step=12311 agent_position = ( -0.000,  0.535,  0.000) 
+Episode =  996, reward = -16.963 (best reward= 102.961), step=12320 agent_position = ( -0.000,  0.534,  0.000) 
+Episode =  997, reward = -16.963 (best reward= 102.961), step=12329 agent_position = (  0.000,  0.533,  0.000) 
+Episode =  998, reward = -16.964 (best reward= 102.961), step=12338 agent_position = ( -0.000,  0.533,  0.000) 
+Episode =  999, reward = -16.965 (best reward= 102.961), step=12347 agent_position = ( -0.000,  0.534,  0.000) 
+Episode = 1000, reward = -16.963 (best reward= 102.961), step=12356 agent_position = (  0.000,  0.533,  0.000) 

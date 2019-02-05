@@ -18,24 +18,35 @@ class Task():
         # Simulation
         self.sim = PhysicsSim(init_pose, init_velocities, init_angle_velocities, runtime) 
         self.action_repeat = 3
-
+        
         self.state_size = self.action_repeat * 6
         self.action_low = 0
         self.action_high = 900
         self.action_size = 4
-        penalties, reward = 0, 0
-
+        penalties= 0
+        reward = 0
+       
         # Goal
-        self.target_pos = target_pos if target_pos is not None else np.array([0., 0., 20.]) 
+        self.target_pos = target_pos if target_pos is not None else np.array([0., 0., 10.]) 
 
     def get_reward(self):
         """Uses current pose of sim to return reward."""
-        reward = 1.-.1*(abs(self.sim.pose[:3] - self.target_pos[:3])).sum()
-        if self.sim.pose[2] >= self.target_pos[2]:  
-            reward += 5.0
-        if self.sim.time > self.sim.runtime: 
-            reward -= (self.sim.time - self.sim.runtime)
-        reward = np.tanh(reward)
+        distance=0
+        penalties= 0
+        reward = 1 - 0.2*abs(self.target_pos[2] - self.sim.pose[2]).sum()
+         
+        for i in range(3):
+            penalties += abs(self.sim.pose[i]-self.target_pos[i])*3
+            
+            distance += (self.sim.pose[i]-self.target_pos[i])**2
+           
+        distance= np.sqrt(distance)
+        if distance < 10:
+            reward += 1000
+        else:
+            reward += 100
+            
+        reward= reward - penalties
         # make reward between [-1,1]    
         reward= np.tanh(reward)
         

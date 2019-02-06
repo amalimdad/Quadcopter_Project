@@ -33,20 +33,8 @@ class Task():
         """Uses current pose of sim to return reward."""
         distance=0
         penalties= 0
-        reward = 1 - 0.2*abs(self.target_pos[2] - self.sim.pose[2]).sum()
-         
-        for i in range(3):
-            penalties += abs(self.sim.pose[i]-self.target_pos[i])*3
-            
-            distance += (self.sim.pose[i]-self.target_pos[i])**2
-           
-        distance= np.sqrt(distance)
-        if distance < 10:
-            reward += 1000
-        else:
-            reward += 100
-            
-        reward= reward - penalties
+        reward = 1 - 0.003*abs(self.target_pos[2] - self.sim.pose[2]).sum()
+        
         # make reward between [-1,1]    
         reward= np.tanh(reward)
         

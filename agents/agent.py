@@ -26,7 +26,7 @@ class ReplayBuffer:
         e = self.experience(state, action, reward, next_state, done)
         self.memory.append(e)
 
-    def sample(self, batch_size=64):
+    def sample(self, batch_size=128):
         """Randomly sample a batch of experiences from memory."""
         return random.sample(self.memory, k=self.batch_size)
 
@@ -63,19 +63,17 @@ class Actor:
         states = layers.Input(shape=(self.state_size,), name='states')
 
         # Add hidden layers
-        net = layers.Dense(units=32, activation='relu')(states)
-        net = layers.Dense(units=64, activation='relu')(net)
-        net = layers.Dense(units=32, activation='relu')(net)
+        net = layers.Dense(units=128, activation='relu')(states)
+        net = layers.Dense(units=256, activation='relu')(net)
+        net = layers.Dense(units=300, activation='relu')(net)
 
         # Try different layer sizes, activations, add batch normalization, regularizers, etc.
 
         # Add final output layer with sigmoid activation
-        raw_actions = layers.Dense(units=self.action_size, activation='sigmoid',
-            name='raw_actions')(net)
+        raw_actions = layers.Dense(units=self.action_size, activation='sigmoid', name='raw_actions')(net)
 
         # Scale [0, 1] output for each action dimension to proper range
-        actions = layers.Lambda(lambda x: (x * self.action_range) + self.action_low,
-            name='actions')(raw_actions)
+        actions = layers.Lambda(lambda x: (x * self.action_range) + self.action_low, name='actions')(raw_actions)
 
         # Create Keras model
         self.model = models.Model(inputs=states, outputs=actions)
@@ -119,12 +117,12 @@ class Critic:
         actions = layers.Input(shape=(self.action_size,), name='actions')
 
         # Add hidden layer(s) for state pathway
-        net_states = layers.Dense(units=32, activation='relu')(states)
-        net_states = layers.Dense(units=64, activation='relu')(net_states)
+        net_states = layers.Dense(units=64, activation='relu')(states)
+        net_states = layers.Dense(units=128, activation='relu')(net_states)
 
         # Add hidden layer(s) for action pathway
-        net_actions = layers.Dense(units=32, activation='relu')(actions)
-        net_actions = layers.Dense(units=64, activation='relu')(net_actions)
+        net_actions = layers.Dense(units=64, activation='relu')(actions)
+        net_actions = layers.Dense(units=128, activation='relu')(net_actions)
 
         # Try different layer sizes, activations, add batch normalization, regularizers, etc.
 
@@ -200,17 +198,17 @@ class critic_actor_agent():
         # Noise process
         self.exploration_mu = 0
         self.exploration_theta = 0.15
-        self.exploration_sigma = 0.1
+        self.exploration_sigma = 0.2
         self.noise = OUNoise(self.action_size, self.exploration_mu, self.exploration_theta, self.exploration_sigma)
 
         # Replay memory
         self.buffer_size = 100000
-        self.batch_size = 128
+        self.batch_size = 64
         self.memory = ReplayBuffer(self.buffer_size, self.batch_size)
 
         # Algorithm parameters
         self.gamma = 0.99  # discount factor
-        self.tau = 0.01  # for soft update of target parameters
+        self.tau = 0.001  # for soft update of target parameters
     
         # Score tracker and learning parameters   
         self.best_mark = -np.inf

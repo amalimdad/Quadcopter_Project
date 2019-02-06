@@ -31,7 +31,7 @@
 # 
 # For this project, the agent that you will implement in `agents/agent.py` will have a far more intelligent method for selecting actions!
 
-# In[1]:
+# In[28]:
 
 
 import random
@@ -51,7 +51,7 @@ class Basic_Agent():
 # 
 # The `labels` list below annotates statistics that are saved while running the simulation.  All of this information is saved in a text file `data.txt` and stored in the dictionary `results`.  
 
-# In[2]:
+# In[29]:
 
 
 get_ipython().run_line_magic('load_ext', 'autoreload')
@@ -95,7 +95,7 @@ results
 
 # Run the code cell below to visualize how the position of the quadcopter evolved during the simulation.
 
-# In[3]:
+# In[30]:
 
 
 import matplotlib.pyplot as plt
@@ -110,7 +110,7 @@ _ = plt.ylim()
 
 # The next code cell visualizes the velocity of the quadcopter.
 
-# In[4]:
+# In[31]:
 
 
 plt.plot(results['time'], results['x_velocity'], label='x_hat')
@@ -122,7 +122,7 @@ _ = plt.ylim()
 
 # Next, you can plot the Euler angles (the rotation of the quadcopter over the $x$-, $y$-, and $z$-axes),
 
-# In[5]:
+# In[32]:
 
 
 plt.plot(results['time'], results['phi'], label='phi')
@@ -134,7 +134,7 @@ _ = plt.ylim()
 
 # before plotting the velocities (in radians per second) corresponding to each of the Euler angles.
 
-# In[6]:
+# In[33]:
 
 
 plt.plot(results['time'], results['phi_velocity'], label='phi_velocity')
@@ -146,7 +146,7 @@ _ = plt.ylim()
 
 # Finally, you can use the code cell below to print the agent's choice of actions.  
 
-# In[7]:
+# In[34]:
 
 
 plt.plot(results['time'], results['rotor_speed1'], label='Rotor 1 revolutions / second')
@@ -162,7 +162,7 @@ _ = plt.ylim()
 # - `task.sim.v` (the velocity of the quadcopter in ($x,y,z$) dimensions), and
 # - `task.sim.angular_v` (radians/second for each of the three Euler angles).
 
-# In[8]:
+# In[35]:
 
 
 # the pose, velocity, and angular velocity of the quadcopter at the end of the episode
@@ -196,7 +196,7 @@ print(task.sim.angular_v)
 # 
 # Run the code cell below to see how the agent performs on the sample task.
 
-# In[9]:
+# In[36]:
 
 
 import sys
@@ -235,7 +235,7 @@ for i_episode in range(1, num_episodes+1):
 # 
 # As you develop your agent, it's important to keep an eye on how it's performing. Use the code above as inspiration to build in a mechanism to log/save the total rewards obtained in each episode to file.  If the episode rewards are gradually increasing, this is an indication that your agent is learning.
 
-# In[22]:
+# In[40]:
 
 
 ## TODO: Train your agent here.
@@ -251,15 +251,15 @@ rewards_list = []
 # agent task: Take off 
 
 num_episodes = 1000
-target_pos = np.array([0., 0., 20., 0., 0., 0.])
-init_pose = np.array([0., 0., 1., 0., 0., 0.])
+target_pos = np.array([0., 0., 10])
+init_pose = np.array([0., 0., 1.,0,0,0])
 
 init_velocities = np.array([0., 0., 0.])
 init_angle_velocities = np.array([0., 0., 0.])
 result_file = 'result.txt'
 labels = ['episode', 'reward','best_reward']
 rewards_list = {i : [] for i in labels}
-
+eposide_score=[]
 task = Task(init_pose=init_pose, target_pos=target_pos,init_velocities=init_velocities, init_angle_velocities=init_angle_velocities)  
 agent = critic_actor_agent(task) 
 step_number =0
@@ -274,6 +274,7 @@ with open(result_file, 'w') as file:
             state = next_state
             step_number +=1
             if done:
+                eposide_score.append(agent.mark)
                 data= "\rEpisode = {:4d}, reward = {:7.3f} (best reward= {:7.3f}), step={:4d} agent_position = ({:7.3f},{:7.3f},{:7.3f}) \n".format(
                     i_episode, agent.mark , agent.best_mark, step_number, task.sim.pose[0], task.sim.pose[1], task.sim.pose[2])
                 print(data, end="")  # [debug]
@@ -287,11 +288,11 @@ with open(result_file, 'w') as file:
         sys.stdout.flush()
 
 
-# ## Plot the Rewards
+# j## Plot the Rewards
 # 
 # Once you are satisfied with your performance, plot the episode rewards, either from a single run, or averaged over multiple runs. 
 
-# In[23]:
+# In[41]:
 
 
 ## TODO: Plot the rewards.
@@ -302,25 +303,20 @@ ax.plot(rewards_list['episode'],rewards_list['reward'] )
 plt.show()
 
 
-# In[25]:
+# In[42]:
 
 
-performance = np.mean(rewards_list['reward'][-10:])
-print(performance)
+import matplotlib.pyplot as plt
+plt.plot(eposide_score)
+plt.show()
 
 
 # ## Reflections
 # 
 # **Question 1**: Describe the task that you specified in `task.py`.  How did you design the reward function?
 # 
-# **Answer**:
-#  reward = 1.-.1*(abs(self.sim.pose[:3] - self.target_pos[:3])).sum()
-#         if self.sim.pose[2] >= self.target_pos[2]:  
-#             reward += 5.0
-#         if self.sim.time > self.sim.runtime: 
-#             reward -= (self.sim.time - self.sim.runtime)
-#         reward = np.tanh(reward)
-# - I choose the takeoff task. I use the same reward code example suggested for this project which is reward = 1-(0.3*(abs(self.sim.pose[:3] - self.target_pos))).sum() but I repleace the multiplyer 0.3 with smaller value (.1) becuase when I tested, I noticed that the agent learned better and faster with smaller value. then i added 5 points to the reward if the simulation position was equal or bigger than target position. then I include time checking, if the time exceed runtime the negative reward (penalety) is applied which is the diffrence between them (reward -= (self.sim.time - self.sim.runtime)). then take the tanh of the reward to convert it in rang [-1,1]. 
+# **Answer**:   
+# - I choosed the takeoff task. I used the same reward code example suggested for this project which is reward = 1-(0.3*(abs(self.sim.pose[:3] - self.target_pos))).sum() but I repleaced the multiplyer 0.3 with smaller value (.003) becuase when I tested, I noticed that the agent learned better and faster with smaller value (reward = 1 - 0.003*abs(self.target_pos[2] - self.sim.pose[2]).sum()). and I specified the z position becuase is the most important position in take off task. Then I took the tanh of the reward to convert it in rang [-1,1]. It was the hardest part to specifying the best reward function to use.
 
 # **Question 2**: Discuss your agent briefly, using the following questions as a guide:
 # 
@@ -329,7 +325,9 @@ print(performance)
 # - What neural network architecture did you use (if any)? Specify layers, sizes, activation functions, etc.
 # 
 # **Answer**:
-# - I use Actor-critic method which is the suggested DDPG alogrithm, and the use the code provided with this project. I use the same provided neural network archetecture becuase it's simple. The actor class uses three hidden lyers with relue activation method and 32,64,32 respectively. the final lyer use segmid acrivation method. the cirtic uses four hidden layers with relu activation too. the gamma = 0.99, epsilon = 0.1 the same as suggested code but I maximize the batch_size to 128 to get better result.
+# - I use Actor-critic method which is the suggested DDPG alogrithm, and the use the code provided with this project.
+# - the $\gamma$ = 0.99, $\epsilon$ = 0.1 and $\alpha$= 0.1 the same as suggested code but I maximize the batch_size to 128 to get better result.
+# - I use the same provided neural network archetecture becuase it's simple but I change some hyperparameter. The actor class uses three hidden lyers with relue activation method and increase the Units of hidden layer to 128, 256 and 300 respectively. the final lyer use segmid acrivation method. the cirtic uses four hidden layers with relu activation too and I use 64 and 128 units for the hidden layers. 
 
 # **Question 3**: Using the episode rewards plot, discuss how the agent learned over time.
 # 
@@ -338,8 +336,8 @@ print(performance)
 # - How good was the final performance of the agent? (e.g. mean rewards over the last 10 episodes)
 # 
 # **Answer**:
-# - it was a hard task to make the agent learned, the agent learned arount 1000 episodes. it goes dowm and up (a gradual learning curve) at the begining of episodes. but then from 315 to 800 approximately, as shown in the above figure, it stabilize after a while between rang 0 to -20. So the agent learned over the time. The mean rewards over the last 10 episodes is -9.50709256361.
-# 
+# - it was a hard task to make the agent learned, the agent learned arount 1000 episodes, the training took a lot of time. it goes dowm and up (a gradual learning curve) at the begining of episodes. but then the agent starts learning and the z position start changeing and become better, as shown in the above figure. So the agent learned over the time. 
+# - the final performance of the agent is become beter after 100 eposides the agent start learning and its performance improved but I think we can imporve it more and more. 
 
 # **Question 4**: Briefly summarize your experience working on this project. You can use the following prompts for ideas.
 # 
@@ -347,8 +345,8 @@ print(performance)
 # - Did you find anything interesting in how the quadcopter or your agent behaved?
 # 
 # **Answer**:
-# - I think the hardest part for me was when I was thinking how to spesify the reward at each step, I was trying many multiplier until I got the better one. Also it took long time to train the agent. 
-# - I think it's interesting how the agent learned diffrently at each time I change the reward function, I belive that there are lots of ways to reward the agent thus behaves better than what I got now.  
+# - Actually this project was the hardest one for me, I think the hardest part for me was when I was thinking how to spesify the reward at each step, I was trying many multipliers until I got the better one. Also it took long time to train the agent. 
+# - I think it's interesting how the agent learned differently at each time I change the reward function, I belive that there are lots of ways to reward the agent thus behaves better than what I got now.  
 
 # In[ ]:
 
